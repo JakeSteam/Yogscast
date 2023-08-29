@@ -1,10 +1,63 @@
-#### General Channels
+#### Core Channels 
 UCH-_hzb2ILSCo9ftVSnrCIQ;Yogscast
+UCpKNM44gSRZ3U_hMd2JV9Kw;Yogscast Shorts
+UCQBs359lwzyVFtc22LzLjuw;Yogscast Live
 #### Yogscast Members
+UCvB0kD6-i5wmZWmj0p3KWCw;Alex The Rambler
 UC5rUMdCFWPXYs9e8PBLzq5g;Angory Tom
+UCMqPZPgJ9HF9UQ_C42BfM9A;Bekkiboom
+UC_uV15mdtC122s8RI2Rq_5A;Bekkiboom Conquest
+UCZocsFkVaKQVPfVjbm4avYg;Ben
+UCoMU9fM7ebtMlsS-ZbxSNoA;Boba
+UCnQC_XGCCI__qrxwgZS27-A;Bokoen1
+UC0K88i2HolAeHRE57l-Pb5w;Bouphe
+UCkPhi5zU2EAPkuWhjFqYmiA;Briony
+UCZu8PaF2NsM9BeNrRPAmVUQ;CraigMeUp
+UCSrfn5mj3XQg3KDqjiiKGuQ;Daltos
+UCs4br3aZLU0sOEM-3n0-6xQ;Duncan
+UCftBPNq8C_L3lUcHL8f1plw;HarryBarry
 UC7A_dLnSAjl7uROCdoNyjzg;Hatfilms
 UCJYvnogbZIQQvX9exn5aDPw;Hat Gaming
+UCj9yJMgOhCkl--aMfelaVIg;Honeydew
+UCWiPkogV65gqqNkwqci4yZA;InTheLittleWood
+UCmKdqsvmV6e7Pwy7N2PMnnA;iSorrowproductions
+UCtqIhSzQEokE_oaQRsLRxQw;Joe Hickson
+UCUxoapwoGN9cKN5SPKGVh7A;Kim
+UCzwUf6paImIBVK6fEVeHNRQ;Lydia
+UC9sjOOmRyRS97aRRlyZw5Lw;Mousie
+UCMlf7NXu4Y67tLvfqLSiGfQ;MousieIRL
+UCq7rgX9NzOImZxEW9kk4YUA;MousieNSFW
+UCsLTG-svFzsK22zFac0pwUA;Nilesy
+UCubqpKp3okBcmhFCqkllA4w;Pedguin
+UCaGWSIZnljlgNTSMzYnxTEg;PyrionFlax
+UCDDbYd5KpfmWZaoyFBz4yxg;Ravs
+UC5gsrZTtWG_AqDFmuq81Q-w;Rimmy Downunder
+UCQd82ZrlW8b8_MujwDO9ajw;Rythian
+UCD4INvKvy83OXwAkRjaQKtw;Sips
+UCpu8dLHavjMi1a5jgT9ycMA;Sjin
+UCRHXUZ0BxbkU2MYZgsuFgkQ;Spiffing Brit
+UCTISUtpRFMMkqth9O9nU40w;Sherlock Hulmes
+UCeva4J3hoZHRycSU95MSMKw;Tabletop Weekly
+UCUM6KH8_sU6hkA8byqfkyUA;Tom Bates
+UCGNediU275zU2VzPF3_rT4A;Vadact
+UC_mkyL75cuKExSTaMbpWrEg;Wilsonator
+UCYzUOg9p-Z_1o_e-Ua4-VHQ;Zoey
+UCee7sFqGWiJM5DaHzX5nFVA;Zylus
+#### Shared Channels
+UCNBwxPqzdZeLGv8SPoosjNg;Civilization
+UClhmd2Xe3zrYfuarqV-shKA;Games Night
+UC3qtZRMtWNaD2Q96STxgOrA;High Rollers DnD
+UCeiojUKAAGdwocc5ZjMqryA;LewisAndBen
+UCZ3edpZNi_qmuBG2FIHW5tQ;Team Double Dragon
+UCn5YKM5JTCZW8OIErRePo5Q;Today I Played
+#### Podcasts
+UCUCj1zyUUPefT18RytQxu3g;Hatchat
+UCgXiTWrFg05fTPfw1YLb5Ug;Triforce
+UCus6GMZ4lLDv_U8rMjOIVAg;Vidiots
+UCWuLwySWgNurLqDvoPfEcXw;Zero Degrees
 #### Highlights / Clips / Compilations
-UCEiPsF9ryoys_UmrZv3l9iQ;best bits weekly;⛏️
+UCEiPsF9ryoys_UmrZv3l9iQ;Best bits weekly;⛏️
+UCOQYCtGeeIuK6zKHgiNGpyg;somerandim
+UC0WJULmXyNAvyLJCBi7r_TQ;Xenophye;⛏️
 #### Animations / Green Screen / Music
 UCZmYQ0SKniBzQYi-sb1QhDA;LeadAndPaper;⛏️
