@@ -2,9 +2,7 @@
 
 The List™️ contains all official Yogscast YouTube channels, as well as any unofficial clip / compilation channels!
 
-It updates once a day (see [how it works](#how-it-works)), if you know any additional channels please [add them](#adding-channel) (or [ask me to](mailto:jake@jakelee.co.uk)). 
-
-Tap a table's header to sort by that field, the best-of-the-best have a little Pickaxe (⛏️) next to them.
+It updates once a day (see [how it works](#how-it-works)), [add any missing channels](#adding-channel) (or [ask me to](mailto:jake@jakelee.co.uk)). Tap a column's header to sort by that field.
 
 ### Channels
 
@@ -101,7 +99,7 @@ Tap a table's header to sort by that field, the best-of-the-best have a little P
 | [ARGhostie](https://youtube.com/@arghostie) | 17 | 453 | 236K |
 | [YOGSCAST Best Bits Weekly](https://youtube.com/@yogscastbestbitsweekly) | 703 | 35K | 15M |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 838 | 49K | 51M |
-| [edgar alan chode](https://youtube.com/@edgaralanchode) | 5 | 223 | 26K |
+| [edgar alan chode](https://youtube.com/@edgaralanchode) | 5 | 222 | 26K |
 | [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 5.1K | 656K |
 | [jslewis](https://youtube.com/@jslewis) | 32 | 2.1K | 257K |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 33 | 16K |
@@ -153,7 +151,7 @@ This list updates once per day with the latest stats for each channel. Full deta
 
 ### Adding channel
 
-To add a channel, edit [`channels.txt`](https://github.com/JakeSteam/Yogscast/blob/main/automation/channels.txt) to include the channel ID, channel name, and a ⛏️ if it's a truly impressive channel:
+To add a channel, edit [`channels.txt`](https://github.com/JakeSteam/Yogscast/blob/main/automation/channels.txt) to include the channel ID and channel name:
 * Channel ID can be retrieved from a profile at `About` -> `Share` -> `Copy channel ID`
 * Channel name is not used, except to make the file more readable.
 
