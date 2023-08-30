@@ -2,9 +2,7 @@
 
 The List™️ contains all official Yogscast YouTube channels, as well as any unofficial clip / compilation channels!
 
-It updates once a day (see [how it works](#how-it-works)), if you know any additional channels please [add them](#adding-channel) (or [ask me to](mailto:jake@jakelee.co.uk)). 
-
-Tap a table's header to sort by that field, the best-of-the-best have a little Pickaxe (⛏️) next to them.
+It updates once a day (see [how it works](#how-it-works)), [add any missing channels](#adding-channel) (or [ask me to](mailto:jake@jakelee.co.uk)). Tap a column's header to sort by that field.
 
 ### Channels
 dynamic-channel-data
@@ -21,7 +19,7 @@ This list updates once per day with the latest stats for each channel. Full deta
 
 ### Adding channel
 
-To add a channel, edit [`channels.txt`](https://github.com/JakeSteam/Yogscast/blob/main/automation/channels.txt) to include the channel ID, channel name, and a ⛏️ if it's a truly impressive channel:
+To add a channel, edit [`channels.txt`](https://github.com/JakeSteam/Yogscast/blob/main/automation/channels.txt) to include the channel ID and channel name:
 * Channel ID can be retrieved from a profile at `About` -> `Share` -> `Copy channel ID`
 * Channel name is not used, except to make the file more readable.
 
