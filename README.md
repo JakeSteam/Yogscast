@@ -49,7 +49,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [YOGSCAST Nilesy](https://youtube.com/@nilesy) | 1.2K | 500K | 58M |
 | [Pedguin](https://youtube.com/@pedguin) | 2.0K | 384K | 134M |
 | [Pyrion Flax](https://youtube.com/@tedhimself) | 580 | 171K | 26M |
-| [Ravs_](https://youtube.com/@ravs_) | 478 | 15K | 1.3M |
+| [Ravs_](https://youtube.com/@ravs_) | 479 | 15K | 1.3M |
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.4K | 557K | 199M |
 | [Rythian](https://youtube.com/@rythian) | 2.3K | 591K | 113M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.8M | 730M |
@@ -60,7 +60,6 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Simon Clark](https://youtube.com/@simonclark) | 442 | 497K | 49M |
 | [Simon Clark Errata](https://youtube.com/@simonclarkerrata) | 30 | 2.9K | 96K |
 | [Simon Lane](https://youtube.com/@simonlane203) | 0 | 6.7K | 0 |
-| [TheSofaBearKing](https://youtube.com/@thesofabearking2) | 28 | 657 | 1.5M |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 93K | 6.3M |
 | [Tom Bates](https://youtube.com/@tombates) | 44 | 148K | 21M |
 | [Turps](https://youtube.com/@turps) | 388 | 244K | 36M |
@@ -133,6 +132,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Shononoki](https://youtube.com/@shononoki) | 4 | 54 | 24K |
 | [ThatMadCat](https://youtube.com/@thatmadcat) | 148 | 82K | 3.4M |
 | [The Occasional Clabon](https://youtube.com/@theoccasionalclabon) | 107 | 11K | 4.3M |
+| [TheSofaBearKing](https://youtube.com/@thesofabearking2) | 28 | 657 | 1.5M |
 | [TheMultiMechs](https://youtube.com/@themultimechs) | 132 | 2.4K | 627K |
 | [TheVecnaThe](https://youtube.com/@thevecnathe8376) | 1 | 52 | 18K |
 | [Toasted Tomatoes](https://youtube.com/@toastedtomatoes) | 59 | 3.8K | 1.4M |
