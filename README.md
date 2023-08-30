@@ -61,8 +61,10 @@ Tap a table's header to sort by that field, the best-of-the-best have a little P
 | [Simon Clark](https://youtube.com/@simonclark) | 442 | 497K | 49M |
 | [Simon Clark Errata](https://youtube.com/@simonclarkerrata) | 30 | 2.9K | 96K |
 | [Simon Lane](https://youtube.com/@simonlane203) | 0 | 6.7K | 0 |
+| [TheSofaBearKing](https://youtube.com/@thesofabearking2) | 28 | 657 | 1.5M |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 93K | 6.3M |
 | [Tom Bates](https://youtube.com/@tombates) | 44 | 148K | 21M |
+| [Turps](https://youtube.com/@turps) | 388 | 244K | 36M |
 | [Vadact](https://youtube.com/@vadact) | 1.9K | 849K | 207M |
 | [Wilsonator](https://youtube.com/@wilsonator) | 627 | 569K | 67M |
 | [sarah](https://youtube.com/@yogtok) | 22 | 6.3K | 649K |
@@ -95,12 +97,16 @@ Tap a table's header to sort by that field, the best-of-the-best have a little P
 
 | Channel | # Videos | Subscribers | Views |
 | --- | --- | --- | --- |
+| [3kilgaming](https://youtube.com/@3kilgaming) | 23 | 534 | 656K |
 | [ARGhostie](https://youtube.com/@arghostie) | 17 | 453 | 236K |
 | [YOGSCAST Best Bits Weekly](https://youtube.com/@yogscastbestbitsweekly) | 703 | 35K | 15M |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 838 | 49K | 51M |
+| [edgar alan chode](https://youtube.com/@edgaralanchode) | 5 | 223 | 26K |
 | [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 5.1K | 656K |
+| [jslewis](https://youtube.com/@jslewis) | 32 | 2.1K | 257K |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 33 | 16K |
 | [Not Hat Films](https://youtube.com/@nothatfilms) | 45 | 1.9K | 245K |
+| [Retcina](https://youtube.com/@thegrimur) | 50 | 3.2K | 6.2M |
 | [Richard Cox](https://youtube.com/@richardcoxers) | 2 | 274 | 285K |
 | [some randim](https://youtube.com/@somerandim7280) | 5 | 46 | 30K |
 | [Some Yognaut on the Internet](https://youtube.com/@someyognautontheinternet3680) | 105 | 11K | 5.8M |
@@ -120,14 +126,24 @@ Tap a table's header to sort by that field, the best-of-the-best have a little P
 | [Best of Sips (animated)](https://youtube.com/@bestofanimated) | 25 | 27K | 3.0M |
 | [Frenk](https://youtube.com/@thefrenkenator) | 31 | 430 | 82K |
 | [LeadAndPaper](https://youtube.com/@leadandpaper) | 19 | 19K | 3.4M |
+| [LinkTCOne](https://youtube.com/@linktcone) | 68 | 899 | 154K |
+| [Madcat Productions](https://youtube.com/@caturdaycartoons) | 64 | 922 | 364K |
+| [RosieMaybe](https://youtube.com/@rosiemaybe) | 29 | 1.1K | 104K |
 | [Rukart Bert](https://youtube.com/@rukartbert) | 98 | 81K | 21M |
 | [Scott Stutzman](https://youtube.com/@scottstutzmanlagoon) | 340 | 901 | 308K |
+| [Shononoki](https://youtube.com/@shononoki) | 4 | 54 | 24K |
 | [ThatMadCat](https://youtube.com/@thatmadcat) | 148 | 82K | 3.4M |
+| [The Occasional Clabon](https://youtube.com/@theoccasionalclabon) | 107 | 11K | 4.3M |
+| [TheMultiMechs](https://youtube.com/@themultimechs) | 132 | 2.4K | 627K |
+| [TheVecnaThe](https://youtube.com/@thevecnathe8376) | 1 | 52 | 18K |
 | [Toasted Tomatoes](https://youtube.com/@toastedtomatoes) | 59 | 3.8K | 1.4M |
+| [Traxinox](https://youtube.com/@traxinox7474) | 1 | 187 | 33K |
+| [WORDwizard64](https://youtube.com/@wordwizard64) | 45 | 33K | 14M |
 
 #### Other
 
 * [Yogscast Tap! (Reuploaded)](https://www.youtube.com/playlist?list=PLB7S86ipiFbpusTl_-Dui0_Er3zmShEAU)
+* [Yogscast Playlists (Extended)](https://www.youtube.com/@yogscastlewissimonplaylist7416/playlists)
 
 ## How it works
 
