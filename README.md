@@ -8,7 +8,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 
 #### Core Channels
 
-| Channel | # Videos | Subscribers | Views |
+| Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Yogscast](https://youtube.com/@yogscast) | 6.2K | 7.1M | 4.6G |
 | [Yogscast Games](https://youtube.com/@yogscastgames) | 139 | 3.1K | 377K |
@@ -17,7 +17,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 
 #### Yogscast Members
 
-| Channel | # Videos | Subscribers | Views |
+| Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Alex The Rambler!](https://youtube.com/@alextherambler) | 1.8K | 432K | 182M |
 | [Angory Tom](https://youtube.com/@angorytom) | 2.4K | 256K | 145M |
@@ -69,7 +69,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 
 #### Shared Channels
 
-| Channel | # Videos | Subscribers | Views |
+| Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Civilization](https://youtube.com/@yogsciv) | 1.2K | 283K | 110M |
 | [Games Night](https://youtube.com/@gamesnight) | 460 | 210K | 38M |
@@ -81,7 +81,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 
 #### Podcasts
 
-| Channel | # Videos | Subscribers | Views |
+| Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Hat Chat Podcast](https://youtube.com/@hatchat) | 149 | 38K | 2.8M |
 | [Triforce!](https://youtube.com/@yogpod) | 407 | 147K | 34M |
@@ -91,7 +91,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 
 #### Highlights / Clips / Compilations
 
-| Channel | # Videos | Subscribers | Views |
+| Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [3kilgaming](https://youtube.com/@3kilgaming) | 23 | 534 | 656K |
 | [ARGhostie](https://youtube.com/@arghostie) | 17 | 453 | 236K |
@@ -112,7 +112,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 
 #### Animations / Music / Other
 
-| Channel | # Videos | Subscribers | Views |
+| Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Ainsley Sorsby](https://youtube.com/@ainsleysorsby) | 6 | 1.4K | 63K |
 | [/ANTHRARTIST](https://youtube.com/@xxmindlessartistxx) | 47 | 697 | 115K |
