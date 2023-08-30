@@ -11,6 +11,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel | # Videos | Subscribers | Views |
 | --- | --- | --- | --- |
 | [The Yogscast](https://youtube.com/@yogscast) | 6.2K | 7.1M | 4.6G |
+| [Yogscast Games](https://youtube.com/@yogscastgames) | 139 | 3.1K | 377K |
 | [Yogscast Shorts](https://youtube.com/@yogscastshorts) | 161 | 12K | 1.4M |
 | [Yogscast Live](https://youtube.com/@yogslive) | 4.1K | 255K | 108M |
 
@@ -99,7 +100,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [ARGhostie](https://youtube.com/@arghostie) | 17 | 453 | 236K |
 | [YOGSCAST Best Bits Weekly](https://youtube.com/@yogscastbestbitsweekly) | 703 | 35K | 15M |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 838 | 49K | 51M |
-| [edgar alan chode](https://youtube.com/@edgaralanchode) | 5 | 222 | 26K |
+| [edgar alan chode](https://youtube.com/@edgaralanchode) | 5 | 223 | 26K |
 | [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 5.1K | 656K |
 | [jslewis](https://youtube.com/@jslewis) | 32 | 2.1K | 257K |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 33 | 16K |
