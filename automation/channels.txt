@@ -5,6 +5,7 @@ UCQBs359lwzyVFtc22LzLjuw;Yogscast Live
 #### Yogscast Members
 UCvB0kD6-i5wmZWmj0p3KWCw;Alex The Rambler
 UC5rUMdCFWPXYs9e8PBLzq5g;Angory Tom
+UCsYcVlne3cKmQZfMyQIZaQg;Area 11
 UCMqPZPgJ9HF9UQ_C42BfM9A;Bekkiboom
 UC_uV15mdtC122s8RI2Rq_5A;Bekkiboom Conquest
 UCZocsFkVaKQVPfVjbm4avYg;Ben
@@ -16,7 +17,8 @@ UCZu8PaF2NsM9BeNrRPAmVUQ;CraigMeUp
 UCSrfn5mj3XQg3KDqjiiKGuQ;Daltos
 UCs4br3aZLU0sOEM-3n0-6xQ;Duncan
 UCftBPNq8C_L3lUcHL8f1plw;HarryBarry
-UC7A_dLnSAjl7uROCdoNyjzg;Hatfilms
+UC7A_dLnSAjl7uROCdoNyjzg;Hat Films
+UCPgN4KqzELysZU0v9oTs_KA;Hat Films Live
 UCJYvnogbZIQQvX9exn5aDPw;Hat Gaming
 UCj9yJMgOhCkl--aMfelaVIg;Honeydew
 UCWiPkogV65gqqNkwqci4yZA;InTheLittleWood
@@ -24,6 +26,7 @@ UCmKdqsvmV6e7Pwy7N2PMnnA;iSorrowproductions
 UCtqIhSzQEokE_oaQRsLRxQw;Joe Hickson
 UCUxoapwoGN9cKN5SPKGVh7A;Kim
 UCzwUf6paImIBVK6fEVeHNRQ;Lydia
+UCf6RKBxEjZIfZBDNiJ0y-cA;Mo Joe Hickson
 UC9sjOOmRyRS97aRRlyZw5Lw;Mousie
 UCMlf7NXu4Y67tLvfqLSiGfQ;MousieIRL
 UCq7rgX9NzOImZxEW9kk4YUA;MousieNSFW
@@ -34,30 +37,57 @@ UCDDbYd5KpfmWZaoyFBz4yxg;Ravs
 UC5gsrZTtWG_AqDFmuq81Q-w;Rimmy Downunder
 UCQd82ZrlW8b8_MujwDO9ajw;Rythian
 UCD4INvKvy83OXwAkRjaQKtw;Sips
+UCJW9YScngZyevv40qOS5QYQ;Sips Live
 UCpu8dLHavjMi1a5jgT9ycMA;Sjin
 UCRHXUZ0BxbkU2MYZgsuFgkQ;Spiffing Brit
 UCTISUtpRFMMkqth9O9nU40w;Sherlock Hulmes
+UCRRr_xrOm66qaigIbwFLvbQ;Simon Clark
+UCGXKegM_SVm5fyXaRvOOaQA;Simon Clark Errata
+UCH4eyFkDDWzmAl-FS4x8B_w;Simon Lane
 UCeva4J3hoZHRycSU95MSMKw;Tabletop Weekly
 UCUM6KH8_sU6hkA8byqfkyUA;Tom Bates
 UCGNediU275zU2VzPF3_rT4A;Vadact
 UC_mkyL75cuKExSTaMbpWrEg;Wilsonator
+UCvTuzZn508FEfGEWHaung5A;YogtokSarah
 UCYzUOg9p-Z_1o_e-Ua4-VHQ;Zoey
 UCee7sFqGWiJM5DaHzX5nFVA;Zylus
 #### Shared Channels
 UCNBwxPqzdZeLGv8SPoosjNg;Civilization
 UClhmd2Xe3zrYfuarqV-shKA;Games Night
 UC3qtZRMtWNaD2Q96STxgOrA;High Rollers DnD
-UCeiojUKAAGdwocc5ZjMqryA;LewisAndBen
+UCeiojUKAAGdwocc5ZjMqryA;Lewis And Ben
 UCZ3edpZNi_qmuBG2FIHW5tQ;Team Double Dragon
 UCn5YKM5JTCZW8OIErRePo5Q;Today I Played
+UCqtWw7xIe8wv7Gte2FTUGQw;Tom And Ben
 #### Podcasts
-UCUCj1zyUUPefT18RytQxu3g;Hatchat
+UCUCj1zyUUPefT18RytQxu3g;Hat Chat
 UCgXiTWrFg05fTPfw1YLb5Ug;Triforce
 UCus6GMZ4lLDv_U8rMjOIVAg;Vidiots
+UCfP0ZiTnYzk5E9mpaE8M5Ww;YOMP
 UCWuLwySWgNurLqDvoPfEcXw;Zero Degrees
 #### Highlights / Clips / Compilations
-UCEiPsF9ryoys_UmrZv3l9iQ;Best bits weekly;⛏️
+UC-rD06jSR4xbloxE2_TFKrw;ARGhostie
+UCEiPsF9ryoys_UmrZv3l9iQ;Best bits weekly
+UCwOQebwcuh9HfTJcRfg7A6w;Drakon Astron
+UCa6YZY-y4noYLZajY5ZA-3Q;Harley Sonder
+UCQ5WORSXJqJQS0a3XUyafDg;Lewiiiiiiiis
+UCEWGZMxVcm3dn3Zw0U6LqaA;Not Hat Films
+UCRdf5hpDbmTwbMRjNNGRR7Q;Richard Cox
 UCOQYCtGeeIuK6zKHgiNGpyg;somerandim
-UC0WJULmXyNAvyLJCBi7r_TQ;Xenophye;⛏️
-#### Animations / Green Screen / Music
-UCZmYQ0SKniBzQYi-sb1QhDA;LeadAndPaper;⛏️
+UCz2KGxnIISxi3_xBtpdQrcg;Some Yognaut on the Internet
+UClzRy8Y7VsWTD-xmjCgGARg;Trottclate Rain
+UCMe-8NXf9h50WTzP2z7LCHA;Trotts Bulge
+UC0WJULmXyNAvyLJCBi7r_TQ;Xenophye
+UCySDmKyc4iV_3sjGzNoGigA;Xhenix
+UCYxsYkaeUsDXziIb093SUxQ;YogPOG
+UC2wzp-jjdeaIHzdx_Z1S3Zg;Yogs Clips
+#### Animations / Music / Other
+UC-KjTu2dC91FpkLCe3oI3KA;Ainsley Sorsby
+UCluPcecvlBylqBvG4peuNRg;Anthrartist
+UCLBmwaJe_DRcV1Rk_6xqKxg;Best of sips animated
+UCVxlw2YY7TFDtp33_hWtBdQ;Frenk
+UCZmYQ0SKniBzQYi-sb1QhDA;LeadAndPaper
+UCQvjLmiMX0Y09pjfpEBKYrQ;Rukart Bert
+UCy30FnspctqVprdSM08GeMw;Scott Stutzman
+UCG7RkUBdinVa1YjWSJcucog;ThatMadCat
+UCiEQkHW4YKFyozSaxteUiyg;Toasted Tomatoes
