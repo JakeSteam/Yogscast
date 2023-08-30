@@ -44,8 +44,10 @@ UCTISUtpRFMMkqth9O9nU40w;Sherlock Hulmes
 UCRRr_xrOm66qaigIbwFLvbQ;Simon Clark
 UCGXKegM_SVm5fyXaRvOOaQA;Simon Clark Errata
 UCH4eyFkDDWzmAl-FS4x8B_w;Simon Lane
+UCyHDmDvHmka1kBnqcn6dqdA;The Sofa Bear King
 UCeva4J3hoZHRycSU95MSMKw;Tabletop Weekly
 UCUM6KH8_sU6hkA8byqfkyUA;Tom Bates
+UCVk6LHxQ4TnHySEd0e6143g;Turps
 UCGNediU275zU2VzPF3_rT4A;Vadact
 UC_mkyL75cuKExSTaMbpWrEg;Wilsonator
 UCvTuzZn508FEfGEWHaung5A;YogtokSarah
@@ -66,12 +68,16 @@ UCus6GMZ4lLDv_U8rMjOIVAg;Vidiots
 UCfP0ZiTnYzk5E9mpaE8M5Ww;YOMP
 UCWuLwySWgNurLqDvoPfEcXw;Zero Degrees
 #### Highlights / Clips / Compilations
+UCBgKcOjR6SNIbVNI9ToG4YA;3kilgaming
 UC-rD06jSR4xbloxE2_TFKrw;ARGhostie
 UCEiPsF9ryoys_UmrZv3l9iQ;Best bits weekly
 UCwOQebwcuh9HfTJcRfg7A6w;Drakon Astron
+UC9jz62nsjGZWVXStb-lj9Rw;Edgar Alan Chode
 UCa6YZY-y4noYLZajY5ZA-3Q;Harley Sonder
+UCPK0PabvBCyCcKkrVkfGQNQ;jslewis
 UCQ5WORSXJqJQS0a3XUyafDg;Lewiiiiiiiis
 UCEWGZMxVcm3dn3Zw0U6LqaA;Not Hat Films
+UCZdHOCqpi7AmsEQ1Gr7f_AQ;Retcina
 UCRdf5hpDbmTwbMRjNNGRR7Q;Richard Cox
 UCOQYCtGeeIuK6zKHgiNGpyg;somerandim
 UCz2KGxnIISxi3_xBtpdQrcg;Some Yognaut on the Internet
@@ -87,7 +93,16 @@ UCluPcecvlBylqBvG4peuNRg;Anthrartist
 UCLBmwaJe_DRcV1Rk_6xqKxg;Best of sips animated
 UCVxlw2YY7TFDtp33_hWtBdQ;Frenk
 UCZmYQ0SKniBzQYi-sb1QhDA;LeadAndPaper
+UCdUJk8yLWDPPHvIw8vfq0oQ;LinkTCOne
+UCzELi-S9I1VZ6dIbp9QkslA;Madcat Productions
+UCTlPaWYY_Dl094lsluYpeMg;RosieMaybe
 UCQvjLmiMX0Y09pjfpEBKYrQ;Rukart Bert
 UCy30FnspctqVprdSM08GeMw;Scott Stutzman
+UCKWuRk7U3EvGyRjFI2kQzzg;Shononoki
 UCG7RkUBdinVa1YjWSJcucog;ThatMadCat
+UCwTHpnAszH9D-Imo1_pknYw;The Occasional Clabon
+UCoaI1pfCrhCje7yN2nVWwFQ;TheMultiMechs
+UCl48idVVOsra_Arc87e5r0Q;TheVecnaThe
 UCiEQkHW4YKFyozSaxteUiyg;Toasted Tomatoes
+UCkUpl0jkb4r-dQqo8Udj1hA;Traxinox
+UCxSdAYaBnm_fTUeJU7YKX6A;WORDwizard64
