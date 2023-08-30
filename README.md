@@ -55,7 +55,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rythian](https://youtube.com/@rythian) | 2.3K | 591K | 113M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.8M | 730M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 4.2K | 208K | 91M |
-| [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 599 | 3.7M | 748M |
+| [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 598 | 3.7M | 748M |
 | [Sherlock Hulmes](https://youtube.com/@sherlockhulmesdm) | 11 | 44K | 1.9M |
 | [Simon Lane](https://youtube.com/@simonlane203) | 0 | 6.7K | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 93K | 6.3M |
