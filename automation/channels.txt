@@ -45,7 +45,6 @@ UCTISUtpRFMMkqth9O9nU40w;Sherlock Hulmes
 UCRRr_xrOm66qaigIbwFLvbQ;Simon Clark
 UCGXKegM_SVm5fyXaRvOOaQA;Simon Clark Errata
 UCH4eyFkDDWzmAl-FS4x8B_w;Simon Lane
-UCyHDmDvHmka1kBnqcn6dqdA;The Sofa Bear King
 UCeva4J3hoZHRycSU95MSMKw;Tabletop Weekly
 UCUM6KH8_sU6hkA8byqfkyUA;Tom Bates
 UCVk6LHxQ4TnHySEd0e6143g;Turps
@@ -102,6 +101,7 @@ UCy30FnspctqVprdSM08GeMw;Scott Stutzman
 UCKWuRk7U3EvGyRjFI2kQzzg;Shononoki
 UCG7RkUBdinVa1YjWSJcucog;ThatMadCat
 UCwTHpnAszH9D-Imo1_pknYw;The Occasional Clabon
+UCyHDmDvHmka1kBnqcn6dqdA;The Sofa Bear King
 UCoaI1pfCrhCje7yN2nVWwFQ;TheMultiMechs
 UCl48idVVOsra_Arc87e5r0Q;TheVecnaThe
 UCiEQkHW4YKFyozSaxteUiyg;Toasted Tomatoes
