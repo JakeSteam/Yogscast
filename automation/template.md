@@ -11,6 +11,7 @@ dynamic-channel-data
 #### Other
 
 * [Yogscast Tap! (Reuploaded)](https://www.youtube.com/playlist?list=PLB7S86ipiFbpusTl_-Dui0_Er3zmShEAU)
+* [Yogscast Playlists (Extended)](https://www.youtube.com/@yogscastlewissimonplaylist7416/playlists)
 
 ## How it works
 
