@@ -52,11 +52,13 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [HelloFromMousie](https://youtube.com/@hellofrommousie6376) | 17 | 1.5K | 16K |
 | [Mousie After Dark](https://youtube.com/@mousieafterdark) | 49 | 3.6K | 46K |
 | [YOGSCAST Nilesy](https://youtube.com/@nilesy) | 1.2K | 500K | 58M |
+| [Osiefish](https://youtube.com/@osiefish) | 38 | 1.5K | 25K |
 | [Pedguin](https://youtube.com/@pedguin) | 2.0K | 384K | 134M |
 | [Pyrion Flax](https://youtube.com/@tedhimself) | 580 | 171K | 26M |
 | [Ravs_](https://youtube.com/@ravs_) | 480 | 15K | 1.4M |
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.4K | 557K | 199M |
 | [Rythian](https://youtube.com/@rythian) | 2.3K | 591K | 113M |
+| [Rythian II](https://youtube.com/@dxphoenix) | 66 | 1.6K | 323K |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.8M | 730M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 4.2K | 208K | 91M |
 | [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 598 | 3.7M | 748M |
@@ -64,7 +66,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Simon Lane](https://youtube.com/@simonlane203) | 0 | 6.6K | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 93K | 6.3M |
 | [Tom Bates](https://youtube.com/@tombates) | 44 | 152K | 21M |
-| [Vadact](https://youtube.com/@vadact) | 1.9K | 849K | 207M |
+| [Vadact](https://youtube.com/@vadact) | 1.9K | 850K | 207M |
 | [Wilsonator](https://youtube.com/@wilsonator) | 627 | 569K | 67M |
 | [xenophyte](https://youtube.com/@xenophyte) | 380 | 53K | 26M |
 | [sarah](https://youtube.com/@yogtok) | 22 | 6.3K | 649K |
@@ -125,7 +127,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Frenk](https://youtube.com/@thefrenkenator) | 31 | 430 | 82K |
 | [LeadAndPaper](https://youtube.com/@leadandpaper) | 19 | 19K | 3.4M |
 | [LinkTCOne](https://youtube.com/@linktcone) | 68 | 899 | 154K |
-| [Madcat Productions](https://youtube.com/@caturdaycartoons) | 64 | 922 | 364K |
+| [Madcat Productions](https://youtube.com/@caturdaycartoons) | 64 | 921 | 364K |
 | [RosieMaybe](https://youtube.com/@rosiemaybe) | 29 | 1.1K | 104K |
 | [Rukart Bert](https://youtube.com/@rukartbert) | 98 | 81K | 21M |
 | [Scott Stutzman](https://youtube.com/@scottstutzmanlagoon) | 340 | 901 | 308K |
