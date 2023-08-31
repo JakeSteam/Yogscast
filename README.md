@@ -39,6 +39,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Hat Gaming](https://youtube.com/@hatfilmsgaming) | 1.1K | 146K | 41M |
 | [Honeydew Live](https://youtube.com/@honeydewlive) | 559 | 31K | 1.1M |
 | [InTheLittleWood](https://youtube.com/@inthelittlewood) | 4.1K | 2.6M | 682M |
+| [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 417 | 204K | 17M |
+| [InTheLittleWood - Live!](https://youtube.com/@inthelittlewoodlive) | 423 | 32K | 2.0M |
 | [iSorrowproductions](https://youtube.com/@isorrowproductions) | 775 | 764K | 397M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 212 | 18K | 1.8M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 600K | 165M |
