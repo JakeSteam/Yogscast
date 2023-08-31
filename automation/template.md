@@ -8,7 +8,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 dynamic-channel-data
 #### Other
 
-* [Yogscast Tap! (Reuploaded)](https://www.youtube.com/playlist?list=PLB7S86ipiFbpusTl_-Dui0_Er3zmShEAU)
+* [YogTrailers (434 videos)](https://www.youtube.com/playlist?list=PLdTv2lHex8acEqG2htOIu_AFtNyhBZ-cq)
+* [Yogscast Tap! (Reuploaded) (28 videos)](https://www.youtube.com/playlist?list=PLB7S86ipiFbpusTl_-Dui0_Er3zmShEAU)
 * [Yogscast Playlists (Extended)](https://www.youtube.com/@yogscastlewissimonplaylist7416/playlists)
 
 ## How it works
