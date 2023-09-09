@@ -11,9 +11,9 @@ while read -r LINE; do
         OUTPUT="${OUTPUT}\n${LINE}\n\n"
         OUTPUT="${OUTPUT}| Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |\n| --- | --- | --- | --- |\n"
     else
-        IFS=';' read -r -a ARRAY_LINE <<< "${LINE}" # Split line by semi-colon
-        echo "Adding channel ${ARRAY_LINE[1]} (${ARRAY_LINE[0]})"
-        curl "https://youtube.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=${ARRAY_LINE[0]}&key=${API_KEY}" \
+        IFS=';' read -r channel_id channel_name emoji <<< "${LINE}" # Split line by semi-colon
+        echo "Adding channel ${channel_name} (${channel_id})"
+        curl "https://youtube.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=${channel_id}&key=${API_KEY}" \
             --header 'Accept: application/json' \
             -fsSL -o output.json
 
@@ -25,7 +25,7 @@ while read -r LINE; do
             SUBSCRIBER_COUNT=$(jq -r '.items[0].statistics.subscriberCount' output.json | numfmt --to=si)
             VIEW_COUNT=$(jq -r '.items[0].statistics.viewCount' output.json | numfmt --to=si)
             echo "Added ${TITLE}: ${VIDEO_COUNT} videos (${VIEW_COUNT} views)"
-            OUTPUT="${OUTPUT}| ${ARRAY_LINE[2]}[${TITLE}](https://youtube.com/${URL}) | ${VIDEO_COUNT} | ${SUBSCRIBER_COUNT} | ${VIEW_COUNT} |\n"
+            OUTPUT="${OUTPUT}| ${emoji}[${TITLE}](https://youtube.com/${URL}) | ${VIDEO_COUNT} | ${SUBSCRIBER_COUNT} | ${VIEW_COUNT} |\n"
         else
             echo "Failed! Bad response received: $(<output.json)"
             exit 1
