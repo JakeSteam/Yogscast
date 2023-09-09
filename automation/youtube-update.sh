@@ -39,9 +39,9 @@ while read -r line; do
                 read -r view_count
             } < <(IFS=','; jq -r "${jq_fields[*]}" < ${temp_output_file})
 
-            video_count=$("${video_count}" | numfmt --to=si)
-            subscriber_count=$("${subscriber_count}" | numfmt --to=si)
-            view_count=$("${view_count}" | numfmt --to=si)
+            video_count=$(numfmt --to=si "${video_count}" | tr G B)
+            subscriber_count=$(numfmt --to=si "${subscriber_count}" | tr G B)
+            view_count=$(numfmt --to=si "${view_count}" | tr G B)
             echo "Added ${title}: ${video_count} videos (${view_count} views)"
             output="${output}| ${emoji}[${title}](https://youtube.com/${url}) | ${video_count} | ${subscriber_count} | ${view_count} |\n"
         else
