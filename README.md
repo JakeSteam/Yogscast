@@ -84,7 +84,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Games Night](https://youtube.com/@gamesnight) | 463 | 211K | 38M |
 | [High Rollers DnD](https://youtube.com/@highrollersdnd) | 432 | 115K | 22M |
 | [Lewis and Ben Save the World](https://youtube.com/@lewisandben) | 500 | 71K | 15M |
-| [Mystery Quest](https://youtube.com/@mystery_quest) | 5 | 20K | 0 |
+| [Mystery Quest](https://youtube.com/@mystery_quest) | 5 | 21K | 0 |
 | [Team Double Dragon](https://youtube.com/@doubledragon) | 681 | 255K | 64M |
 | [Today I Played](https://youtube.com/@tip_) | 118 | 45K | 2.5M |
 | [Tom & Ben](https://youtube.com/@tomben8737) | 12 | 19K | 413K |
@@ -109,6 +109,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 5.1K | 658K |
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.2K | 1.2M |
 | [jslewis](https://youtube.com/@jslewis) | 32 | 2.1K | 258K |
+| [katherine](https://youtube.com/@specialk137) | 7 | 700 | 1.2M |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 33 | 16K |
 | [Not Hat Films](https://youtube.com/@nothatfilms) | 47 | 2.1K | 267K |
 | [Retcina](https://youtube.com/@thegrimur) | 50 | 3.2K | 6.2M |
