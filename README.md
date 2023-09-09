@@ -10,7 +10,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [The Yogscast](https://youtube.com/@yogscast) | 6.2K | 7.1M | 4.6G |
+| [The Yogscast](https://youtube.com/@yogscast) | 6.2K | 7.1M | 4.6B |
 | [Yogscast Games](https://youtube.com/@yogscastgames) | 140 | 3.2K | 379K |
 | [Yogscast Shorts](https://youtube.com/@yogscastshorts) | 161 | 12K | 1.4M |
 | [Yogscast Live](https://youtube.com/@yogslive) | 4.1K | 255K | 108M |
@@ -94,7 +94,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | --- | --- | --- | --- |
 | [The Hat Chat Podcast](https://youtube.com/@hatchat) | 149 | 38K | 2.8M |
 | [Triforce!](https://youtube.com/@yogpod) | 409 | 147K | 34M |
-| [Vidiots](https://youtube.com/@vidiotsofficial) | 486 | 42K | 8.5M |
+| [Vidiots](https://youtube.com/@vidiotsofficial) | 487 | 42K | 8.5M |
 | [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 17 | 1.5K | 29K |
 | [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 59 | 4.7K | 203K |
 
@@ -162,4 +162,5 @@ To add a channel, edit [`channels.txt`](https://github.com/JakeSteam/Yogscast/bl
 * Channel name is not used, except to make the file more readable.
 
 <script src="/js/tablesort.js"></script>
+<script src="/js/new_window.js"></script>
 <link rel="stylesheet" href="/css/tweaks.css">
