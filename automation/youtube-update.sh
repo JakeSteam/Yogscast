@@ -1,17 +1,17 @@
 #!/bin/bash
 
-HEADER_PREFIX="#### "
-PLACEHOLDER_TEXT="dynamic-channel-data"
-OUTPUT=""
+header_prefix="#### "
+placeholder_text="dynamic-channel-data"
+output=""
 
 # Convert list of channels into Markdown tables
-while read -r LINE; do
-    if [[ ${LINE} == ${HEADER_PREFIX}* ]]; then
-        echo "Adding header ${LINE}"
-        OUTPUT="${OUTPUT}\n${LINE}\n\n"
-        OUTPUT="${OUTPUT}| Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |\n| --- | --- | --- | --- |\n"
+while read -r line; do
+    if [[ ${line} == ${header_prefix}* ]]; then
+        echo "Adding header ${line}"
+        output="${output}\n${line}\n\n"
+        output="${output}| Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |\n| --- | --- | --- | --- |\n"
     else
-        IFS=';' read -r channel_id channel_name emoji <<< "${LINE}" # Split line by semi-colon
+        IFS=';' read -r channel_id channel_name emoji <<< "${line}" # Split line by semi-colon
         echo "Adding channel ${channel_name} (${channel_id})"
         curl "https://youtube.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=${channel_id}&key=${API_KEY}" \
             --header 'Accept: application/json' \
@@ -19,13 +19,13 @@ while read -r LINE; do
 
         # Pull channel data out of response if possible
         if [[ $(jq -r '.pageInfo.totalResults' output.json) == 1 ]]; then
-            TITLE=$(jq -r '.items[0].snippet.title' output.json)
-            URL=$(jq -r '.items[0].snippet.customUrl' output.json)
-            VIDEO_COUNT=$(jq -r '.items[0].statistics.videoCount' output.json | numfmt --to=si)
-            SUBSCRIBER_COUNT=$(jq -r '.items[0].statistics.subscriberCount' output.json | numfmt --to=si)
-            VIEW_COUNT=$(jq -r '.items[0].statistics.viewCount' output.json | numfmt --to=si)
-            echo "Added ${TITLE}: ${VIDEO_COUNT} videos (${VIEW_COUNT} views)"
-            OUTPUT="${OUTPUT}| ${emoji}[${TITLE}](https://youtube.com/${URL}) | ${VIDEO_COUNT} | ${SUBSCRIBER_COUNT} | ${VIEW_COUNT} |\n"
+            title=$(jq -r '.items[0].snippet.title' output.json)
+            url=$(jq -r '.items[0].snippet.customUrl' output.json)
+            video_count=$(jq -r '.items[0].statistics.videoCount' output.json | numfmt --to=si)
+            subscriber_count=$(jq -r '.items[0].statistics.subscriberCount' output.json | numfmt --to=si)
+            view_count=$(jq -r '.items[0].statistics.viewCount' output.json | numfmt --to=si)
+            echo "Added ${title}: ${video_count} videos (${view_count} views)"
+            output="${output}| ${emoji}[${title}](https://youtube.com/${url}) | ${video_count} | ${subscriber_count} | ${view_count} |\n"
         else
             echo "Failed! Bad response received: $(<output.json)"
             exit 1
@@ -34,8 +34,8 @@ while read -r LINE; do
 done < "${WORKSPACE}/automation/channels.txt"
 
 # Replace placeholder in template with output, updating the README
-TEMPLATE_CONTENTS=$(<"${WORKSPACE}/automation/template.md")
-echo -e "${TEMPLATE_CONTENTS//${PLACEHOLDER_TEXT}/${OUTPUT}}" > "${WORKSPACE}/README.md"
+template_contents=$(<"${WORKSPACE}/automation/template.md")
+echo -e "${template_contents//${placeholder_text}/${output}}" > "${WORKSPACE}/README.md"
 
 # Debug
 cat "${WORKSPACE}/README.md"
