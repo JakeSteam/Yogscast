@@ -24,11 +24,24 @@ while read -r line; do
 
         # Pull channel data out of response if possible
         if [[ $(jq -r '.pageInfo.totalResults' output.json) == 1 ]]; then
-            title=$(jq -r '.items[0].snippet.title' ${temp_output_file})
-            url=$(jq -r '.items[0].snippet.customUrl' ${temp_output_file})
-            video_count=$(jq -r '.items[0].statistics.videoCount' ${temp_output_file} | numfmt --to=si)
-            subscriber_count=$(jq -r '.items[0].statistics.subscriberCount' ${temp_output_file} | numfmt --to=si)
-            view_count=$(jq -r '.items[0].statistics.viewCount' ${temp_output_file} | numfmt --to=si)
+            jq_fields=(
+                '.items[0].snippet.title'
+                '.items[0].snippet.customUrl'
+                '.items[0].statistics.videoCount'
+                '.items[0].statistics.subscriberCount'
+                '.items[0].statistics.viewCount'
+            )
+            {
+                read -r title
+                read -r url
+                read -r video_count
+                read -r subscriber_count
+                read -r view_count
+            } < <(IFS=','; jq -r "${jq_fields[*]}" < ${temp_output_file})
+
+            video_count=$("${video_count}" | numfmt --to=si)
+            subscriber_count=$("${subscriber_count}" | numfmt --to=si)
+            view_count=$("${view_count}" | numfmt --to=si)
             echo "Added ${title}: ${video_count} videos (${view_count} views)"
             output="${output}| ${emoji}[${title}](https://youtube.com/${url}) | ${video_count} | ${subscriber_count} | ${view_count} |\n"
         else

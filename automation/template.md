@@ -25,4 +25,5 @@ To add a channel, edit [`channels.txt`](https://github.com/JakeSteam/Yogscast/bl
 * Channel name is not used, except to make the file more readable.
 
 <script src="/js/tablesort.js"></script>
+<script src="/js/new_window.js"></script>
 <link rel="stylesheet" href="/css/tweaks.css">
