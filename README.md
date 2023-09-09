@@ -28,7 +28,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [boba](https://youtube.com/@boba69) | 911 | 32K | 4.3M |
 | [Bokoen1](https://youtube.com/@bokoen1) | 856 | 366K | 301M |
 | [Bouphe](https://youtube.com/@bouphe) | 21 | 25K | 311K |
-| [brionykay](https://youtube.com/@brionykay_) | 212 | 3.6K | 307K |
+| [brionykay](https://youtube.com/@brionykay_) | 213 | 3.6K | 307K |
 | [CraigMeUp](https://youtube.com/@craigmeup) | 34 | 2.8K | 177K |
 | [Daltos](https://youtube.com/@daltos) | 31 | 2.3K | 47K |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 841 | 49K | 51M |
@@ -41,7 +41,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Honeydew Live](https://youtube.com/@honeydewlive) | 559 | 31K | 1.1M |
 | [InTheLittleWood](https://youtube.com/@inthelittlewood) | 4.1K | 2.6M | 682M |
 | [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 418 | 204K | 17M |
-| [InTheLittleWood - Live!](https://youtube.com/@inthelittlewoodlive) | 430 | 32K | 2.0M |
+| [InTheLittleWood - Live!](https://youtube.com/@inthelittlewoodlive) | 431 | 32K | 2.0M |
 | [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 87 | 16K | 2.7M |
 | [iSorrowproductions](https://youtube.com/@isorrowproductions) | 777 | 764K | 399M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 212 | 18K | 1.8M |
@@ -81,9 +81,9 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | --- | --- | --- | --- |
 | [Civilization](https://youtube.com/@yogsciv) | 1.2K | 283K | 110M |
 | [Games Night](https://youtube.com/@gamesnight) | 462 | 211K | 38M |
-| [High Rollers DnD](https://youtube.com/@highrollersdnd) | 432 | 114K | 22M |
+| [High Rollers DnD](https://youtube.com/@highrollersdnd) | 432 | 115K | 22M |
 | [Lewis and Ben Save the World](https://youtube.com/@lewisandben) | 500 | 71K | 15M |
-| [Mystery Quest](https://youtube.com/@mystery_quest) | 1 | 14K | 0 |
+| [Mystery Quest](https://youtube.com/@mystery_quest) | 1 | 15K | 0 |
 | [Team Double Dragon](https://youtube.com/@doubledragon) | 681 | 255K | 64M |
 | [Today I Played](https://youtube.com/@tip_) | 118 | 45K | 2.5M |
 | [Tom & Ben](https://youtube.com/@tomben8737) | 12 | 19K | 413K |
