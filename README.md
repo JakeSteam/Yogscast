@@ -112,6 +112,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.2K | 1.2M |
 | [jslewis](https://youtube.com/@jslewis) | 32 | 2.1K | 267K |
 | [katherine](https://youtube.com/@specialk137) | 7 | 700 | 1.2M |
+| [Kalakakku](https://youtube.com/@kalakakku_) | 54 | 2.5K | 374K |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 33 | 16K |
 | [Not Hat Films](https://youtube.com/@nothatfilms) | 54 | 2.6K | 402K |
 | [Retcina](https://youtube.com/@thegrimur) | 50 | 3.2K | 6.2M |
