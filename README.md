@@ -29,7 +29,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Bokoen1](https://youtube.com/@bokoen1) | 959 | 376K | 342M |
 | [Bouphe](https://youtube.com/@bouphe) | 13 | 26K | 234K |
 | [brionykay](https://youtube.com/@brionykay_) | 308 | 5.1K | 598K |
-| [CraigMeUp](https://youtube.com/@craigmeup) | 34 | 2.7K | 187K |
+| [CraigMeUp](https://youtube.com/@craigmeup) | 34 | 2.7K | 188K |
 | [Daltos](https://youtube.com/@daltos) | 31 | 2.3K | 47K |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 932 | 51K | 58M |
 | [Duncan](https://youtube.com/@duncan) | 4.7K | 1.7M | 767M |
@@ -72,7 +72,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Vadact](https://youtube.com/@vadact) | 2.0K | 968K | 238M |
 | [Wilsonator](https://youtube.com/@wilsonator) | 627 | 560K | 67M |
 | [xenophyte](https://youtube.com/@xenophyte) | 407 | 53K | 27M |
-| [sarah](https://youtube.com/@yogtok) | 18 | 7.0K | 622K |
+| [sarah](https://youtube.com/@yogtok) | 18 | 7.0K | 623K |
 | [YOGSCAST Zoey](https://youtube.com/@zoey) | 321 | 371K | 27M |
 | [YOGSCAST Zylus](https://youtube.com/@zylus) | 88 | 86K | 1.5M |
 
@@ -105,16 +105,16 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | --- | --- | --- | --- |
 | [3kilgaming](https://youtube.com/@3kilgaming) | 23 | 537 | 676K |
 | [ARGhostie](https://youtube.com/@arghostie) | 17 | 455 | 265K |
-| [crumbs](https://youtube.com/@crumbs8) | 655 | 1.6K | 500K |
+| [crumbs](https://youtube.com/@crumbs8) | 656 | 1.6K | 500K |
 | [Content Archive](https://youtube.com/@neeshy) | 406 | 5.1K | 3.5M |
 | [edgar alan chode](https://youtube.com/@edgaralanchode) | 12 | 286 | 39K |
-| [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 5.0K | 698K |
+| [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 5.0K | 699K |
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.1K | 1.2M |
 | [jslewis](https://youtube.com/@jslewis) | 33 | 2.2K | 310K |
 | [katherine](https://youtube.com/@specialk137) | 7 | 700 | 1.2M |
-| [Kalakakku](https://youtube.com/@kalakakku_) | 55 | 2.7K | 461K |
+| [Kalakakku](https://youtube.com/@kalakakku_) | 55 | 2.7K | 462K |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 34 | 18K |
-| [Not Hat Films](https://youtube.com/@nothatfilms) | 76 | 4.0K | 988K |
+| [Not Hat Films](https://youtube.com/@nothatfilms) | 76 | 4.0K | 989K |
 | [OscarFoxtrot](https://youtube.com/@oscarfoxtrot2657) | 363 | 89 | 225K |
 | [Retcina](https://youtube.com/@thegrimur) | 50 | 3.1K | 6.2M |
 | [Richard Cox](https://youtube.com/@richardcox0) | 2 | 270 | 293K |
@@ -138,8 +138,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [LinkTCOne](https://youtube.com/@linktcone) | 68 | 895 | 154K |
 | [Madcat Productions](https://youtube.com/@caturdaycartoons) | 64 | 916 | 366K |
 | [RosieMaybe](https://youtube.com/@rosiemaybe) | 39 | 1.6K | 224K |
-| [Rukart Bert](https://youtube.com/@rukartbert) | 125 | 93K | 25M |
-| [Scott Stutzman](https://youtube.com/@scottstutzmanlagoon) | 343 | 903 | 315K |
+| [Rukart Bert](https://youtube.com/@rukartbert) | 126 | 93K | 25M |
+| [Scott Stutzman](https://youtube.com/@scottstutzmanlagoon) | 343 | 904 | 315K |
 | [Shononoki](https://youtube.com/@shononoki) | 11 | 859 | 107K |
 | [The Occasional Clabon](https://youtube.com/@theoccasionalclabon) | 107 | 11K | 4.4M |
 | [TheSofaBearKing](https://youtube.com/@thesofabearking2) | 28 | 691 | 1.6M |
