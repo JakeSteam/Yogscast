@@ -26,24 +26,24 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Ben (Yogscast)](https://youtube.com/@benyogscast6594) | 0 | 5.8K | 0 |
 | [YOGSCAST Best Bits Weekly](https://youtube.com/@yogscastbestbitsweekly) | 712 | 35K | 16M |
 | [boba](https://youtube.com/@boba69) | 1.2K | 31K | 4.8M |
-| [Bokoen1](https://youtube.com/@bokoen1) | 960 | 376K | 343M |
-| [Bouphe](https://youtube.com/@bouphe) | 13 | 26K | 234K |
+| [Bokoen1](https://youtube.com/@bokoen1) | 961 | 376K | 343M |
+| [Bouphe](https://youtube.com/@bouphe) | 13 | 26K | 235K |
 | [brionykay](https://youtube.com/@brionykay_) | 308 | 5.1K | 599K |
 | [CraigMeUp](https://youtube.com/@craigmeup) | 34 | 2.7K | 188K |
 | [Daltos](https://youtube.com/@daltos) | 31 | 2.3K | 47K |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 933 | 51K | 58M |
 | [Duncan](https://youtube.com/@duncan) | 4.7K | 1.7M | 767M |
-| [Geestargames](https://youtube.com/@geestargames) | 231 | 3.7K | 711K |
+| [Geestargames](https://youtube.com/@geestargames) | 231 | 3.7K | 712K |
 | [Hrry](https://youtube.com/@hrrybrry) | 3 | 8.7K | 3.6K |
-| [Hat Films](https://youtube.com/@hatfilms) | 4.3K | 864K | 537M |
+| [Hat Films](https://youtube.com/@hatfilms) | 4.3K | 864K | 538M |
 | [Hat Films Live](https://youtube.com/@hatfilmslive) | 134 | 6.7K | 46K |
 | [Hat Gaming](https://youtube.com/@hatfilmsgaming) | 1.1K | 143K | 42M |
 | [Honeydew Live](https://youtube.com/@honeydewlive) | 600 | 31K | 1.1M |
 | [InTheLittleWood](https://youtube.com/@inthelittlewood) | 4.1K | 2.6M | 682M |
-| [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 559 | 226K | 23M |
+| [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 560 | 226K | 23M |
 | [InTheLittleWood - Live!](https://youtube.com/@inthelittlewoodlive) | 471 | 34K | 2.4M |
 | [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 115 | 26K | 6.3M |
-| [iSorrowproductions](https://youtube.com/@isorrowproductions) | 871 | 794K | 440M |
+| [iSorrowproductions](https://youtube.com/@isorrowproductions) | 871 | 795K | 440M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 223 | 18K | 2.0M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 593K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 287 | 1.8K | 47K |
@@ -61,15 +61,15 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.4K | 572K | 215M |
 | [Rythian](https://youtube.com/@rythian) | 2.3K | 585K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 66 | 1.6K | 326K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 188 | 107K | 41M |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 189 | 107K | 41M |
 | [Sherlock Hulmes](https://youtube.com/@sherlockhulmesdm) | 12 | 48K | 2.4M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.8M | 734M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 4.5K | 212K | 100M |
-| [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 658 | 4.0M | 852M |
+| [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 658 | 4.0M | 853M |
 | [Simon Lane](https://youtube.com/@simonlane203) | 0 | 7.0K | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 94K | 6.6M |
 | [Tom Bates](https://youtube.com/@tombates) | 80 | 513K | 114M |
-| [Vadact](https://youtube.com/@vadact) | 2.0K | 971K | 238M |
+| [Vadact](https://youtube.com/@vadact) | 2.0K | 972K | 238M |
 | [Wilsonator](https://youtube.com/@wilsonator) | 627 | 560K | 67M |
 | [xenophyte](https://youtube.com/@xenophyte) | 409 | 53K | 27M |
 | [sarah](https://youtube.com/@yogtok) | 18 | 7.0K | 623K |
@@ -94,9 +94,9 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Hat Chat Podcast](https://youtube.com/@hatchat) | 171 | 37K | 3.0M |
-| [Triforce!](https://youtube.com/@yogpod) | 451 | 145K | 35M |
+| [Triforce!](https://youtube.com/@yogpod) | 452 | 145K | 35M |
 | [Vidiots](https://youtube.com/@vidiotsofficial) | 511 | 42K | 8.8M |
-| [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 43 | 2.8K | 100K |
+| [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 43 | 2.8K | 101K |
 | [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 93 | 5.5K | 326K |
 
 #### Highlights / Clips / Compilations
@@ -108,7 +108,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [crumbs](https://youtube.com/@crumbs8) | 657 | 1.6K | 502K |
 | [Content Archive](https://youtube.com/@neeshy) | 406 | 5.1K | 3.5M |
 | [edgar alan chode](https://youtube.com/@edgaralanchode) | 12 | 287 | 39K |
-| [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 5.0K | 699K |
+| [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 5.0K | 700K |
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.1K | 1.2M |
 | [jslewis](https://youtube.com/@jslewis) | 33 | 2.2K | 311K |
 | [katherine](https://youtube.com/@specialk137) | 7 | 700 | 1.2M |
@@ -120,7 +120,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Richard Cox](https://youtube.com/@richardcox0) | 2 | 270 | 293K |
 | [some randim](https://youtube.com/@somerandim7280) | 5 | 48 | 34K |
 | [Some Yognaut on the Internet](https://youtube.com/@someyognautontheinternet3680) | 105 | 11K | 5.8M |
-| [Trottclate Rain](https://youtube.com/@trottclaterain4996) | 4 | 487 | 285K |
+| [Trottclate Rain](https://youtube.com/@trottclaterain4996) | 4 | 488 | 285K |
 | [Trotts Bulge](https://youtube.com/@trottsbulge2726) | 4 | 14 | 26K |
 | [Xhenix](https://youtube.com/@xhenix) | 201 | 13K | 7.6M |
 | [YogPOG](https://youtube.com/@yogpog) | 170 | 7.0K | 4.5M |
@@ -139,10 +139,10 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Madcat Productions](https://youtube.com/@caturdaycartoons) | 64 | 916 | 366K |
 | [RosieMaybe](https://youtube.com/@rosiemaybe) | 39 | 1.6K | 224K |
 | [Rukart Bert](https://youtube.com/@rukartbert) | 126 | 93K | 25M |
-| [Scott Stutzman](https://youtube.com/@scottstutzmanlagoon) | 343 | 905 | 315K |
+| [Scott Stutzman](https://youtube.com/@scottstutzmanlagoon) | 343 | 906 | 315K |
 | [Shononoki](https://youtube.com/@shononoki) | 11 | 858 | 107K |
 | [The Occasional Clabon](https://youtube.com/@theoccasionalclabon) | 107 | 11K | 4.4M |
-| [TheSofaBearKing](https://youtube.com/@thesofabearking2) | 28 | 691 | 1.6M |
+| [TheSofaBearKing](https://youtube.com/@thesofabearking2) | 28 | 692 | 1.6M |
 | [TheMultiMechs](https://youtube.com/@themultimechs) | 132 | 2.4K | 652K |
 | [TheVecnaThe](https://youtube.com/@thevecnathe8376) | 1 | 52 | 18K |
 | [Toasted Tomatoes](https://youtube.com/@toastedtomatoes) | 59 | 3.8K | 1.4M |
