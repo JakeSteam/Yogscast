@@ -33,23 +33,23 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Daltos](https://youtube.com/@daltos) | 31 | 2.3K | 47K |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 937 | 51K | 58M |
 | [Duncan](https://youtube.com/@duncan) | 4.8K | 1.7M | 768M |
-| [Geestargames](https://youtube.com/@geestargames) | 237 | 3.7K | 727K |
-| [Hrry](https://youtube.com/@hrrybrry) | 5 | 8.8K | 3.7K |
+| [Geestargames](https://youtube.com/@geestargames) | 238 | 3.7K | 727K |
+| [Hrry](https://youtube.com/@hrrybrry) | 6 | 9.0K | 5.5K |
 | [Hat Films](https://youtube.com/@hatfilms) | 4.3K | 863K | 538M |
 | [Hat Films Live](https://youtube.com/@hatfilmslive) | 134 | 6.7K | 46K |
 | [Hat Gaming](https://youtube.com/@hatfilmsgaming) | 1.1K | 142K | 43M |
 | [Honeydew Live](https://youtube.com/@honeydewlive) | 600 | 31K | 1.1M |
 | [InTheLittleWood](https://youtube.com/@inthelittlewood) | 4.1K | 2.6M | 682M |
-| [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 575 | 226K | 23M |
+| [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 576 | 226K | 23M |
 | [InTheLittleWood - Live!](https://youtube.com/@inthelittlewoodlive) | 471 | 34K | 2.4M |
-| [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 116 | 27K | 6.4M |
+| [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 118 | 27K | 6.4M |
 | [iSorrowproductions](https://youtube.com/@isorrowproductions) | 876 | 797K | 443M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 223 | 18K | 2.0M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 593K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 287 | 1.8K | 48K |
 | [Lolipopgi](https://youtube.com/@lolipopgi) | 337 | 6.3K | 1.1M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 885K |
-| [More Joe Hickson](https://youtube.com/@morehickson) | 272 | 2.1K | 430K |
+| [More Joe Hickson](https://youtube.com/@morehickson) | 273 | 2.1K | 430K |
 | [Mousie](https://youtube.com/@mousie) | 1.8K | 186K | 53M |
 | [HelloFromMousie](https://youtube.com/@hellofrommousie6376) | 17 | 1.5K | 16K |
 | [Mousie After Dark](https://youtube.com/@mousieafterdark) | 49 | 3.5K | 47K |
@@ -61,7 +61,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.4K | 573K | 216M |
 | [Rythian](https://youtube.com/@rythian) | 2.3K | 585K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 66 | 1.6K | 326K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 194 | 107K | 41M |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 195 | 107K | 41M |
 | [Sherlock Hulmes](https://youtube.com/@sherlockhulmesdm) | 12 | 48K | 2.4M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.8M | 735M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 4.5K | 212K | 100M |
@@ -84,8 +84,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Games Night](https://youtube.com/@gamesnight) | 527 | 230K | 43M |
 | [High Rollers DnD](https://youtube.com/@highrollersdnd) | 510 | 200K | 42M |
 | [Lewis and Ben Save the World](https://youtube.com/@lewisandben) | 518 | 70K | 16M |
-| [Mystery Quest](https://youtube.com/@mystery_quest) | 95 | 71K | 3.8M |
-| [Team Double Dragon](https://youtube.com/@doubledragon) | 750 | 249K | 65M |
+| [Mystery Quest](https://youtube.com/@mystery_quest) | 95 | 71K | 3.9M |
+| [Team Double Dragon](https://youtube.com/@doubledragon) | 751 | 249K | 65M |
 | [Today I Played](https://youtube.com/@tip_) | 118 | 44K | 2.6M |
 | [Tom & Ben](https://youtube.com/@tomben8737) | 12 | 19K | 476K |
 
@@ -105,7 +105,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | --- | --- | --- | --- |
 | [3kilgaming](https://youtube.com/@3kilgaming) | 23 | 535 | 677K |
 | [ARGhostie](https://youtube.com/@arghostie) | 17 | 453 | 267K |
-| [crumbs](https://youtube.com/@crumbs8) | 661 | 1.7K | 508K |
+| [crumbs](https://youtube.com/@crumbs8) | 662 | 1.7K | 508K |
 | [Content Archive](https://youtube.com/@neeshy) | 406 | 5.1K | 3.5M |
 | [edgar alan chode](https://youtube.com/@edgaralanchode) | 12 | 286 | 39K |
 | [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 5.0K | 705K |
