@@ -33,14 +33,14 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Daltos](https://youtube.com/@daltos) | 31 | 2.3K | 48K |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 969 | 51K | 60M |
 | [Duncan](https://youtube.com/@duncan) | 4.9K | 1.8M | 775M |
-| [Geestargames](https://youtube.com/@geestargames) | 269 | 3.8K | 797K |
-| [Hrry](https://youtube.com/@hrrybrry) | 67 | 12K | 274K |
+| [Geestargames](https://youtube.com/@geestargames) | 269 | 3.8K | 798K |
+| [Hrry](https://youtube.com/@hrrybrry) | 67 | 12K | 275K |
 | [Hat Films](https://youtube.com/@hatfilms) | 4.6K | 860K | 545M |
 | [Hat Films Live](https://youtube.com/@hatfilmslive) | 134 | 6.7K | 49K |
 | [Hat Gaming](https://youtube.com/@hatfilmsgaming) | 1.1K | 141K | 43M |
 | [Honeydew Live](https://youtube.com/@honeydewlive) | 600 | 31K | 1.1M |
 | [InTheLittleWood](https://youtube.com/@inthelittlewood) | 4.1K | 2.5M | 683M |
-| [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 696 | 234K | 26M |
+| [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 697 | 234K | 26M |
 | [InTheLittleWood - Live!](https://youtube.com/@inthelittlewoodlive) | 471 | 34K | 2.5M |
 | [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 120 | 30K | 7.6M |
 | [iSorrowproductions](https://youtube.com/@isorrowproductions) | 925 | 812K | 463M |
@@ -72,7 +72,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Vadact](https://youtube.com/@vadact) | 2.0K | 1.1M | 257M |
 | [Wilsonator](https://youtube.com/@wilsonator) | 627 | 556K | 67M |
 | [xenophyte](https://youtube.com/@xenophyte) | 411 | 52K | 27M |
-| [sarah](https://youtube.com/@yogtok) | 18 | 7.1K | 639K |
+| [sarah](https://youtube.com/@yogtok) | 18 | 7.1K | 640K |
 | [YOGSCAST Zoey](https://youtube.com/@zoey) | 321 | 369K | 27M |
 | [YOGSCAST Zylus](https://youtube.com/@zylus) | 88 | 86K | 1.5M |
 
@@ -81,7 +81,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Civilization](https://youtube.com/@yogsciv) | 1.4K | 280K | 115M |
-| [Games Night](https://youtube.com/@gamesnight) | 554 | 249K | 46M |
+| [Games Night](https://youtube.com/@gamesnight) | 555 | 249K | 46M |
 | [High Rollers DnD](https://youtube.com/@highrollersdnd) | 540 | 209K | 51M |
 | [Lewis and Ben Save the World](https://youtube.com/@lewisandben) | 518 | 70K | 16M |
 | [Mystery Quest](https://youtube.com/@mystery_quest) | 125 | 83K | 5.9M |
@@ -111,8 +111,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 4.9K | 736K |
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.1K | 1.2M |
 | [jslewis](https://youtube.com/@jslewis) | 33 | 2.2K | 337K |
-| [katherine](https://youtube.com/@specialk137) | 7 | 699 | 1.2M |
-| [Kalakakku](https://youtube.com/@kalakakku_) | 57 | 2.7K | 502K |
+| [katherine](https://youtube.com/@specialk137) | 7 | 698 | 1.2M |
+| [Kalakakku](https://youtube.com/@kalakakku_) | 57 | 2.7K | 503K |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 34 | 19K |
 | [Not Hat Films](https://youtube.com/@nothatfilms) | 82 | 4.3K | 1.2M |
 | [OscarFoxtrot](https://youtube.com/@oscarfoxtrot2657) | 363 | 99 | 246K |
@@ -136,16 +136,16 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Frenk](https://youtube.com/@thefrenkenator) | 31 | 416 | 83K |
 | [LeadAndPaper](https://youtube.com/@leadandpaper) | 19 | 19K | 3.6M |
 | [Madcat Productions](https://youtube.com/@caturdaycartoons) | 64 | 913 | 367K |
-| [RosieMaybe](https://youtube.com/@rosiemaybe) | 42 | 1.7K | 251K |
+| [RosieMaybe](https://youtube.com/@rosiemaybe) | 42 | 1.7K | 252K |
 | [Rukart Bert](https://youtube.com/@rukartbert) | 129 | 95K | 26M |
 | [Scott Stutzman](https://youtube.com/@scottstutzmanlagoon) | 349 | 913 | 320K |
-| [Shononoki](https://youtube.com/@shononoki) | 11 | 870 | 114K |
+| [Shononoki](https://youtube.com/@shononoki) | 11 | 869 | 114K |
 | [The Occasional Clabon](https://youtube.com/@theoccasionalclabon) | 107 | 11K | 4.4M |
-| [TheSofaBearKing](https://youtube.com/@thesofabearking2) | 28 | 781 | 1.6M |
+| [TheSofaBearKing](https://youtube.com/@thesofabearking2) | 28 | 784 | 1.6M |
 | [TheMultiMechs](https://youtube.com/@themultimechs) | 132 | 2.5K | 665K |
 | [TheVecnaThe](https://youtube.com/@thevecnathe8376) | 1 | 52 | 18K |
 | [Toasted Tomatoes](https://youtube.com/@toastedtomatoes) | 60 | 3.8K | 1.4M |
-| [Traxinox](https://youtube.com/@traxinox) | 2 | 2.7K | 806K |
+| [Traxinox](https://youtube.com/@traxinox) | 2 | 2.7K | 808K |
 | [WORDwizard64](https://youtube.com/@wordwizard64) | 45 | 32K | 14M |
 
 #### Other
