@@ -19,7 +19,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Alex The Rambler!](https://youtube.com/@alextherambler) | 2.0K | 433K | 192M |
+| [Alex The Rambler!](https://youtube.com/@alextherambler) | 2.0K | 433K | 193M |
 | [Angory Tom](https://youtube.com/@angorytom) | 3.2K | 263K | 175M |
 | [Bekkiboom](https://youtube.com/@bekkibooom) | 90 | 3.3K | 55K |
 | [Conquest!](https://youtube.com/@conquest) | 136 | 58K | 3.0M |
@@ -27,12 +27,12 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [YOGSCAST Best Bits](https://youtube.com/@yogscastbestbits) | 745 | 36K | 17M |
 | [boba](https://youtube.com/@boba69) | 1.5K | 32K | 5.4M |
 | [Bokoen1](https://youtube.com/@bokoen1) | 1.1K | 387K | 393M |
-| [Bouphe](https://youtube.com/@bouphe) | 16 | 27K | 273K |
-| [brionykay](https://youtube.com/@brionykay_) | 268 | 6.2K | 786K |
+| [Bouphe](https://youtube.com/@bouphe) | 16 | 27K | 274K |
+| [brionykay](https://youtube.com/@brionykay_) | 268 | 6.2K | 787K |
 | [CraigMeUp](https://youtube.com/@craigmeup) | 36 | 2.7K | 205K |
 | [Daltos](https://youtube.com/@daltos) | 32 | 2.2K | 49K |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 1.1K | 51K | 63M |
-| [Duncan](https://youtube.com/@duncan) | 5.1K | 1.8M | 788M |
+| [Duncan](https://youtube.com/@duncan) | 5.1K | 1.8M | 789M |
 | [Geestargames](https://youtube.com/@geestargames) | 290 | 3.9K | 904K |
 | [Hrry](https://youtube.com/@hrrybrry) | 0 | 12K | 0 |
 | [Hat Films](https://youtube.com/@hatfilms) | 5.0K | 855K | 555M |
@@ -43,11 +43,11 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 839 | 251K | 31M |
 | [InTheLittleWood VODS](https://youtube.com/@inthelittlewoodlive) | 472 | 35K | 2.6M |
 | [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 126 | 35K | 9.7M |
-| [iSorrowproductions](https://youtube.com/@isorrowproductions) | 989 | 829K | 492M |
+| [iSorrowproductions](https://youtube.com/@isorrowproductions) | 990 | 829K | 492M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 227 | 19K | 2.2M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 586K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 288 | 2.0K | 54K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 383 | 8.2K | 1.8M |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 384 | 8.2K | 1.8M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 890K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 333 | 2.2K | 510K |
 | [Mousie](https://youtube.com/@mousie) | 1.9K | 184K | 53M |
@@ -65,11 +65,11 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Sherlock Hulmes](https://youtube.com/@sherlockhulmesdm) | 12 | 50K | 2.7M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 738M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 4.8K | 212K | 105M |
-| [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 713 | 4.3M | 974M |
+| [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 713 | 4.3M | 975M |
 | [Simon Lane](https://youtube.com/@simonlane203) | 0 | 7.1K | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 94K | 6.7M |
-| [Tom Bates](https://youtube.com/@tombates) | 118 | 693K | 184M |
-| [Vadact](https://youtube.com/@vadact) | 2.0K | 1.2M | 274M |
+| [Tom Bates](https://youtube.com/@tombates) | 118 | 694K | 184M |
+| [Vadact](https://youtube.com/@vadact) | 2.0K | 1.2M | 275M |
 | [Wilsonator](https://youtube.com/@wilsonator) | 627 | 551K | 67M |
 | [xenophyte](https://youtube.com/@xenophyte) | 412 | 52K | 27M |
 | [sarah](https://youtube.com/@yogtok) | 21 | 7.4K | 672K |
@@ -104,7 +104,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [3kilgaming](https://youtube.com/@3kilgaming) | 23 | 539 | 697K |
-| [ARGhostie](https://youtube.com/@arghostie) | 20 | 464 | 291K |
+| [ARGhostie](https://youtube.com/@arghostie) | 20 | 465 | 291K |
 | [crumbs](https://youtube.com/@crumbs8) | 685 | 1.8K | 573K |
 | [Content Archive](https://youtube.com/@neeshy) | 406 | 5.4K | 4.1M |
 | [edgar alan chode](https://youtube.com/@edgaralanchode) | 12 | 373 | 59K |
