@@ -28,26 +28,26 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [boba](https://youtube.com/@boba69) | 1.5K | 32K | 5.4M |
 | [Bokoen1](https://youtube.com/@bokoen1) | 1.1K | 387K | 393M |
 | [Bouphe](https://youtube.com/@bouphe) | 16 | 27K | 274K |
-| [brionykay](https://youtube.com/@brionykay_) | 268 | 6.2K | 788K |
+| [brionykay](https://youtube.com/@brionykay_) | 268 | 6.2K | 789K |
 | [CraigMeUp](https://youtube.com/@craigmeup) | 36 | 2.7K | 205K |
 | [Daltos](https://youtube.com/@daltos) | 32 | 2.2K | 49K |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 1.1K | 51K | 63M |
 | [Duncan](https://youtube.com/@duncan) | 5.1K | 1.8M | 789M |
-| [Geestargames](https://youtube.com/@geestargames) | 290 | 3.9K | 904K |
+| [Geestargames](https://youtube.com/@geestargames) | 290 | 3.9K | 905K |
 | [Hrry](https://youtube.com/@hrrybrry) | 0 | 12K | 0 |
 | [Hat Films](https://youtube.com/@hatfilms) | 5.0K | 855K | 555M |
 | [Hat Films Live](https://youtube.com/@hatfilmslive) | 134 | 6.6K | 52K |
 | [Hat Gaming](https://youtube.com/@hatfilmsgaming) | 1.1K | 140K | 44M |
 | [Honeydew Live](https://youtube.com/@honeydewlive) | 600 | 30K | 1.2M |
 | [InTheLittleWood](https://youtube.com/@inthelittlewood) | 4.1K | 2.5M | 683M |
-| [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 839 | 251K | 31M |
+| [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 840 | 251K | 31M |
 | [InTheLittleWood VODS](https://youtube.com/@inthelittlewoodlive) | 472 | 35K | 2.6M |
 | [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 126 | 35K | 9.7M |
-| [iSorrowproductions](https://youtube.com/@isorrowproductions) | 990 | 829K | 493M |
+| [iSorrowproductions](https://youtube.com/@isorrowproductions) | 991 | 829K | 493M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 227 | 19K | 2.2M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 586K | 166M |
-| [Kirsty](https://youtube.com/@kirstyyt) | 288 | 2.0K | 54K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 384 | 8.2K | 1.8M |
+| [Kirsty](https://youtube.com/@kirstyyt) | 288 | 2.0K | 55K |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 385 | 8.2K | 1.9M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 890K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 333 | 2.2K | 510K |
 | [Mousie](https://youtube.com/@mousie) | 1.9K | 184K | 53M |
@@ -61,11 +61,11 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 582K | 225M |
 | [Rythian](https://youtube.com/@rythian) | 2.5K | 579K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 68 | 1.5K | 327K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 410 | 101K | 43M |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 411 | 101K | 43M |
 | [Sherlock Hulmes](https://youtube.com/@sherlockhulmesdm) | 12 | 50K | 2.7M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 738M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 4.8K | 212K | 105M |
-| [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 713 | 4.3M | 975M |
+| [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 713 | 4.3M | 976M |
 | [Simon Lane](https://youtube.com/@simonlane203) | 0 | 7.1K | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 94K | 6.7M |
 | [Tom Bates](https://youtube.com/@tombates) | 118 | 694K | 184M |
@@ -118,7 +118,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [OscarFoxtrot](https://youtube.com/@oscarfoxtrot2657) | 363 | 102 | 279K |
 | [Retcina](https://youtube.com/@thegrimur) | 50 | 3.1K | 6.2M |
 | [Richard Cox](https://youtube.com/@richardcox0) | 2 | 271 | 34K |
-| [Ali Sleiman](https://youtube.com/@somerandim7280) | 5 | 50 | 37K |
+| [Ali Sleiman](https://youtube.com/@somerandim7280) | 5 | 50 | 38K |
 | [Some Yognaut on the Internet](https://youtube.com/@someyognautontheinternet3680) | 105 | 11K | 5.9M |
 | [Trottclate Rain (Fannotation)](https://youtube.com/@trottclaterain4996) | 4 | 489 | 293K |
 | [Trotts Bulge](https://youtube.com/@trottsbulge2726) | 4 | 14 | 27K |
