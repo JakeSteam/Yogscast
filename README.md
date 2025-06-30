@@ -11,7 +11,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Yogscast](https://youtube.com/@yogscast) | 7.2K | 7.1M | 4.7B |
-| [Yogscast Games](https://youtube.com/@yogscastgames) | 214 | 3.6K | 719K |
+| [Yogscast Games](https://youtube.com/@yogscastgames) | 214 | 3.6K | 722K |
 | [Yogscast Shorts](https://youtube.com/@yogscastshorts) | 161 | 12K | 1.8M |
 | [Yogscast Live](https://youtube.com/@yogslive) | 4.5K | 250K | 115M |
 
@@ -34,20 +34,20 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Drakon Astron](https://youtube.com/@drakonastron) | 1.1K | 51K | 63M |
 | [Duncan](https://youtube.com/@duncan) | 5.1K | 1.8M | 789M |
 | [Geestargames](https://youtube.com/@geestargames) | 291 | 3.9K | 908K |
-| [Hrry](https://youtube.com/@hrrybrry) | 2 | 12K | 1.1K |
+| [Hrry](https://youtube.com/@hrrybrry) | 2 | 12K | 1.7K |
 | [Hat Films](https://youtube.com/@hatfilms) | 5.0K | 854K | 556M |
 | [Hat Films Live](https://youtube.com/@hatfilmslive) | 134 | 6.6K | 52K |
 | [Hat Gaming](https://youtube.com/@hatfilmsgaming) | 1.1K | 140K | 44M |
 | [Honeydew Live](https://youtube.com/@honeydewlive) | 600 | 30K | 1.2M |
 | [InTheLittleWood](https://youtube.com/@inthelittlewood) | 4.1K | 2.5M | 683M |
-| [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 851 | 252K | 32M |
+| [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 852 | 252K | 32M |
 | [InTheLittleWood VODS](https://youtube.com/@inthelittlewoodlive) | 472 | 35K | 2.6M |
 | [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 128 | 35K | 9.8M |
-| [iSorrowproductions](https://youtube.com/@isorrowproductions) | 994 | 830K | 494M |
+| [iSorrowproductions](https://youtube.com/@isorrowproductions) | 995 | 830K | 494M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 227 | 19K | 2.2M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 586K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 288 | 2.0K | 55K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 391 | 8.3K | 1.9M |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 392 | 8.3K | 2.0M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 890K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 333 | 2.2K | 510K |
 | [Mousie](https://youtube.com/@mousie) | 1.9K | 184K | 53M |
@@ -97,7 +97,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Triforce!](https://youtube.com/@yogpod) | 506 | 144K | 37M |
 | [Vidiots](https://youtube.com/@vidiotsofficial) | 525 | 41K | 9.0M |
 | [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 58 | 3.0K | 129K |
-| [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 120 | 5.6K | 383K |
+| [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 120 | 5.6K | 384K |
 
 #### Highlights / Clips / Compilations
 
