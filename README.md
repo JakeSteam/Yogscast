@@ -27,7 +27,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [YOGSCAST Best Bits](https://youtube.com/@yogscastbestbits) | 746 | 36K | 17M |
 | [boba](https://youtube.com/@boba69) | 1.5K | 32K | 5.4M |
 | [Bokoen1](https://youtube.com/@bokoen1) | 1.1K | 388K | 397M |
-| [Bouphe](https://youtube.com/@bouphe) | 17 | 27K | 284K |
+| [Bouphe](https://youtube.com/@bouphe) | 17 | 27K | 285K |
 | [brionykay](https://youtube.com/@brionykay_) | 268 | 6.2K | 808K |
 | [CraigMeUp](https://youtube.com/@craigmeup) | 36 | 2.7K | 207K |
 | [Daltos](https://youtube.com/@daltos) | 32 | 2.2K | 49K |
@@ -43,11 +43,11 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 866 | 255K | 32M |
 | [InTheLittleWood VODS](https://youtube.com/@inthelittlewoodlive) | 472 | 35K | 2.6M |
 | [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 129 | 36K | 10M |
-| [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.1K | 832K | 498M |
+| [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.1K | 833K | 498M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 228 | 19K | 2.2M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 586K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 288 | 2.0K | 55K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 400 | 8.4K | 2.0M |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 401 | 8.4K | 2.0M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 891K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 333 | 2.2K | 510K |
 | [Mousie](https://youtube.com/@mousie) | 2.0K | 184K | 53M |
@@ -68,7 +68,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 718 | 4.3M | 985M |
 | [Simon Lane](https://youtube.com/@simonlane203) | 0 | 7.1K | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 93K | 6.7M |
-| [Tom Bates](https://youtube.com/@tombates) | 121 | 701K | 188M |
+| [Tom Bates](https://youtube.com/@tombates) | 122 | 702K | 188M |
 | [Vadact](https://youtube.com/@vadact) | 2.1K | 1.2M | 277M |
 | [Wilsonator](https://youtube.com/@wilsonator) | 627 | 550K | 67M |
 | [xenophyte](https://youtube.com/@xenophyte) | 412 | 52K | 27M |
@@ -105,7 +105,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | --- | --- | --- | --- |
 | [3kilgaming](https://youtube.com/@3kilgaming) | 23 | 539 | 698K |
 | [ARGhostie](https://youtube.com/@arghostie) | 20 | 467 | 293K |
-| [crumbs](https://youtube.com/@crumbs8) | 685 | 1.8K | 576K |
+| [crumbs](https://youtube.com/@crumbs8) | 685 | 1.8K | 577K |
 | [Content Archive](https://youtube.com/@neeshy) | 406 | 5.4K | 4.1M |
 | [edgar alan chode](https://youtube.com/@edgaralanchode) | 12 | 374 | 60K |
 | [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 4.9K | 755K |
@@ -131,7 +131,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Ainsley Sorsby](https://youtube.com/@ainsleysorsby) | 6 | 1.3K | 63K |
-| [/ANTHRARTIST](https://youtube.com/@xxmindlessartistxx) | 47 | 668 | 120K |
+| [/ANTHRARTIST](https://youtube.com/@xxmindlessartistxx) | 47 | 667 | 120K |
 | [Best of Sips (animated)](https://youtube.com/@bestofanimated) | 25 | 26K | 3.1M |
 | [Frenk](https://youtube.com/@thefrenkenator) | 8 | 414 | 45K |
 | [LeadAndPaper](https://youtube.com/@leadandpaper) | 19 | 19K | 3.6M |
@@ -145,7 +145,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [TheMultiMechs](https://youtube.com/@themultimechs) | 132 | 2.5K | 683K |
 | [TheVecnaThe](https://youtube.com/@thevecnathe8376) | 1 | 52 | 19K |
 | [Toasted Tomatoes](https://youtube.com/@toastedtomatoes) | 60 | 3.8K | 1.4M |
-| [Traxinox](https://youtube.com/@traxinox) | 2 | 3.1K | 988K |
+| [Traxinox](https://youtube.com/@traxinox) | 2 | 3.1K | 989K |
 | [WORDwizard64](https://youtube.com/@wordwizard64) | 45 | 32K | 14M |
 
 #### Other
