@@ -10,8 +10,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [The Yogscast](https://youtube.com/@yogscast) | 7.2K | 7.1M | 4.7B |
-| [Yogscast Games](https://youtube.com/@yogscastgames) | 224 | 3.6K | 743K |
+| [The Yogscast](https://youtube.com/@yogscast) | 7.3K | 7.1M | 4.7B |
+| [Yogscast Games](https://youtube.com/@yogscastgames) | 224 | 3.6K | 745K |
 | [Yogscast Shorts](https://youtube.com/@yogscastshorts) | 161 | 12K | 1.8M |
 | [Yogscast Live](https://youtube.com/@yogslive) | 4.6K | 250K | 115M |
 
@@ -40,10 +40,10 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Hat Gaming](https://youtube.com/@hatfilmsgaming) | 1.1K | 140K | 44M |
 | [Honeydew Live](https://youtube.com/@honeydewlive) | 600 | 30K | 1.2M |
 | [InTheLittleWood](https://youtube.com/@inthelittlewood) | 4.1K | 2.5M | 683M |
-| [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 868 | 255K | 32M |
+| [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 867 | 255K | 32M |
 | [InTheLittleWood VODS](https://youtube.com/@inthelittlewoodlive) | 472 | 35K | 2.6M |
-| [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 130 | 36K | 10M |
-| [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.1K | 833K | 498M |
+| [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 131 | 36K | 11M |
+| [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.1K | 833K | 499M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 228 | 19K | 2.2M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 586K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 288 | 2.0K | 55K |
@@ -54,7 +54,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [HelloFromMousie](https://youtube.com/@hellofrommousie6376) | 17 | 1.4K | 16K |
 | [Mousie After Dark](https://youtube.com/@mousieafterdark) | 49 | 3.4K | 47K |
 | [YOGSCAST Nilesy](https://youtube.com/@nilesy) | 1.2K | 490K | 58M |
-| [Osiefish](https://youtube.com/@osiefish) | 101 | 1.8K | 43K |
+| [Osiefish](https://youtube.com/@osiefish) | 102 | 1.8K | 43K |
 | [Pedguin](https://youtube.com/@pedguin) | 2.1K | 369K | 136M |
 | [Pyrion Flax](https://youtube.com/@pyrionflax) | 600 | 168K | 27M |
 | [Ravs_](https://youtube.com/@ravs_) | 553 | 21K | 1.9M |
@@ -65,7 +65,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Sherlock Hulmes](https://youtube.com/@sherlockhulmesdm) | 12 | 50K | 2.7M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 738M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 4.8K | 211K | 105M |
-| [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 718 | 4.3M | 985M |
+| [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 718 | 4.3M | 986M |
 | [Simon Lane](https://youtube.com/@simonlane203) | 0 | 7.1K | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 93K | 6.7M |
 | [Tom Bates](https://youtube.com/@tombates) | 122 | 703K | 189M |
@@ -81,7 +81,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Civilization](https://youtube.com/@yogsciv) | 1.4K | 278K | 117M |
-| [Games Night](https://youtube.com/@gamesnight) | 637 | 258K | 50M |
+| [Games Night](https://youtube.com/@gamesnight) | 638 | 258K | 50M |
 | [High Rollers DnD](https://youtube.com/@highrollersdnd) | 578 | 215K | 55M |
 | [Lewis and Ben Save the World](https://youtube.com/@lewisandben) | 531 | 70K | 17M |
 | [Mystery Quest](https://youtube.com/@mystery_quest) | 191 | 93K | 9.4M |
@@ -97,7 +97,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Triforce!](https://youtube.com/@yogpod) | 509 | 144K | 38M |
 | [Vidiots](https://youtube.com/@vidiotsofficial) | 525 | 41K | 9.0M |
 | [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 59 | 3.0K | 131K |
-| [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 120 | 5.6K | 385K |
+| [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 121 | 5.6K | 385K |
 
 #### Highlights / Clips / Compilations
 
@@ -106,7 +106,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [3kilgaming](https://youtube.com/@3kilgaming) | 23 | 539 | 698K |
 | [ARGhostie](https://youtube.com/@arghostie) | 20 | 467 | 293K |
 | [crumbs](https://youtube.com/@crumbs8) | 685 | 1.8K | 577K |
-| [Content Archive](https://youtube.com/@neeshy) | 406 | 5.4K | 4.1M |
+| [Content Archive](https://youtube.com/@neeshy) | 406 | 5.4K | 4.2M |
 | [edgar alan chode](https://youtube.com/@edgaralanchode) | 12 | 374 | 60K |
 | [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 4.9K | 755K |
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.0K | 1.3M |
@@ -131,7 +131,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Ainsley Sorsby](https://youtube.com/@ainsleysorsby) | 6 | 1.3K | 63K |
-| [/ANTHRARTIST](https://youtube.com/@xxmindlessartistxx) | 47 | 667 | 120K |
+| [/ANTHRARTIST](https://youtube.com/@xxmindlessartistxx) | 47 | 666 | 120K |
 | [Best of Sips (animated)](https://youtube.com/@bestofanimated) | 25 | 26K | 3.1M |
 | [Frenk](https://youtube.com/@thefrenkenator) | 8 | 414 | 45K |
 | [LeadAndPaper](https://youtube.com/@leadandpaper) | 19 | 19K | 3.6M |
@@ -145,7 +145,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [TheMultiMechs](https://youtube.com/@themultimechs) | 132 | 2.5K | 683K |
 | [TheVecnaThe](https://youtube.com/@thevecnathe8376) | 1 | 52 | 19K |
 | [Toasted Tomatoes](https://youtube.com/@toastedtomatoes) | 60 | 3.8K | 1.4M |
-| [Traxinox](https://youtube.com/@traxinox) | 2 | 3.1K | 989K |
+| [Traxinox](https://youtube.com/@traxinox) | 2 | 3.1K | 990K |
 | [WORDwizard64](https://youtube.com/@wordwizard64) | 45 | 32K | 14M |
 
 #### Other
