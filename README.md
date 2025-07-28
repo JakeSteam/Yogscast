@@ -19,7 +19,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Alex The Rambler!](https://youtube.com/@alextherambler) | 2.0K | 436K | 193M |
+| [Alex The Rambler!](https://youtube.com/@alextherambler) | 2.0K | 437K | 193M |
 | [Angory Tom](https://youtube.com/@angorytom) | 3.3K | 263K | 177M |
 | [Bekkiboom](https://youtube.com/@bekkibooom) | 96 | 3.3K | 56K |
 | [Conquest!](https://youtube.com/@conquest) | 136 | 58K | 3.0M |
@@ -28,14 +28,14 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [boba](https://youtube.com/@boba69) | 1.6K | 32K | 5.4M |
 | [Bokoen1](https://youtube.com/@bokoen1) | 1.1K | 388K | 399M |
 | [Bouphe](https://youtube.com/@bouphe) | 17 | 27K | 288K |
-| [brionykay](https://youtube.com/@brionykay_) | 268 | 6.3K | 817K |
+| [brionykay](https://youtube.com/@brionykay_) | 268 | 6.3K | 818K |
 | [CraigMeUp](https://youtube.com/@craigmeup) | 36 | 2.7K | 208K |
 | [Daltos](https://youtube.com/@daltos) | 32 | 2.2K | 49K |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 1.1K | 51K | 63M |
 | [Duncan](https://youtube.com/@duncan) | 5.2K | 1.8M | 791M |
-| [Geestargames](https://youtube.com/@geestargames) | 294 | 3.9K | 917K |
+| [Geestargames](https://youtube.com/@geestargames) | 294 | 4.0K | 917K |
 | [Hrry](https://youtube.com/@hrrybrry) | 4 | 12K | 4.3K |
-| [Hat Films](https://youtube.com/@hatfilms) | 5.1K | 854K | 557M |
+| [Hat Films](https://youtube.com/@hatfilms) | 5.1K | 854K | 558M |
 | [Hat Films Live](https://youtube.com/@hatfilmslive) | 134 | 6.6K | 52K |
 | [Hat Gaming](https://youtube.com/@hatfilmsgaming) | 1.1K | 139K | 44M |
 | [Honeydew Live](https://youtube.com/@honeydewlive) | 600 | 30K | 1.2M |
@@ -47,7 +47,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Joe Hickson](https://youtube.com/@joehickson) | 228 | 19K | 2.2M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 586K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 288 | 2.0K | 55K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 405 | 8.4K | 2.1M |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 406 | 8.5K | 2.1M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 891K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 333 | 2.2K | 511K |
 | [Mousie](https://youtube.com/@mousie) | 2.0K | 184K | 53M |
@@ -103,7 +103,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [3kilgaming](https://youtube.com/@3kilgaming) | 23 | 539 | 698K |
+| [3kilgaming](https://youtube.com/@3kilgaming) | 23 | 539 | 699K |
 | [ARGhostie](https://youtube.com/@arghostie) | 20 | 466 | 293K |
 | [crumbs](https://youtube.com/@crumbs8) | 685 | 1.8K | 578K |
 | [Content Archive](https://youtube.com/@neeshy) | 406 | 5.4K | 4.2M |
@@ -112,7 +112,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.0K | 1.3M |
 | [jslewis](https://youtube.com/@jslewis) | 33 | 2.3K | 402K |
 | [katherine](https://youtube.com/@specialk137) | 8 | 688 | 1.3M |
-| [Kalakakku](https://youtube.com/@kalakakku_) | 61 | 3.0K | 629K |
+| [Kalakakku](https://youtube.com/@kalakakku_) | 61 | 3.0K | 631K |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 32 | 21K |
 | [Not Hat Films](https://youtube.com/@nothatfilms) | 89 | 4.5K | 1.5M |
 | [OscarFoxtrot](https://youtube.com/@oscarfoxtrot2657) | 363 | 103 | 283K |
