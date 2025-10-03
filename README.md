@@ -11,7 +11,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Yogscast](https://youtube.com/@yogscast) | 7.4K | 7.1M | 4.7B |
-| [Yogscast Games](https://youtube.com/@yogscastgames) | 257 | 3.7K | 825K |
+| [Yogscast Games](https://youtube.com/@yogscastgames) | 258 | 3.7K | 826K |
 | [Yogscast Shorts](https://youtube.com/@yogscastshorts) | 161 | 12K | 1.9M |
 | [Yogscast Live](https://youtube.com/@yogslive) | 4.6K | 249K | 115M |
 
@@ -43,11 +43,11 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 934 | 268K | 36M |
 | [InTheLittleWood VODS](https://youtube.com/@inthelittlewoodlive) | 472 | 36K | 2.6M |
 | [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 139 | 40K | 12M |
-| [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.1K | 836K | 508M |
+| [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.1K | 836K | 509M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 228 | 19K | 2.2M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 584K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 288 | 2.1K | 56K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 446 | 8.8K | 2.3M |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 447 | 8.8K | 2.3M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 892K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 333 | 2.1K | 511K |
 | [Mousie](https://youtube.com/@mousie) | 2.0K | 183K | 53M |
@@ -61,14 +61,14 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 583K | 227M |
 | [Rythian](https://youtube.com/@rythian) | 2.6K | 577K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 69 | 1.5K | 328K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 23 | 387 | 838 |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 24 | 392 | 874 |
 | [Sherlock Hulmes](https://youtube.com/@sherlockhulmesdm) | 12 | 50K | 2.7M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 738M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 4.9K | 211K | 106M |
 | [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 730 | 4.4M | 1.1B |
 | [Simon Lane](https://youtube.com/@simonlane203) | 0 | 7.1K | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 93K | 6.8M |
-| [Tom Bates](https://youtube.com/@tombates) | 127 | 734K | 205M |
+| [Tom Bates](https://youtube.com/@tombates) | 127 | 735K | 205M |
 | [Vadact](https://youtube.com/@vadact) | 2.1K | 1.2M | 285M |
 | [Wilsonator](https://youtube.com/@wilsonator) | 627 | 549K | 67M |
 | [xenophyte](https://youtube.com/@xenophyte) | 412 | 51K | 27M |
@@ -103,7 +103,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [3kilgaming](https://youtube.com/@3kilgaming) | 23 | 540 | 701K |
+| [3kilgaming](https://youtube.com/@3kilgaming) | 23 | 540 | 702K |
 | [ARGhostie](https://youtube.com/@arghostie) | 20 | 467 | 296K |
 | [crumbs](https://youtube.com/@crumbs8) | 685 | 1.8K | 586K |
 | [Content Archive](https://youtube.com/@neeshy) | 406 | 5.5K | 4.2M |
