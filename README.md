@@ -28,12 +28,12 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [boba](https://youtube.com/@boba69) | 1.6K | 32K | 5.6M |
 | [Bokoen1](https://youtube.com/@bokoen1) | 1.2K | 390K | 412M |
 | [Bouphe](https://youtube.com/@bouphe) | 19 | 27K | 301K |
-| [brionykay](https://youtube.com/@brionykay_) | 278 | 6.6K | 896K |
+| [brionykay](https://youtube.com/@brionykay_) | 278 | 6.6K | 897K |
 | [CraigMeUp](https://youtube.com/@craigmeup) | 36 | 2.7K | 212K |
 | [Daltos](https://youtube.com/@daltos) | 32 | 2.3K | 49K |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 1.1K | 51K | 65M |
 | [Duncan](https://youtube.com/@duncan) | 5.3K | 1.8M | 796M |
-| [Geestargames](https://youtube.com/@geestargames) | 311 | 4.0K | 966K |
+| [Geestargames](https://youtube.com/@geestargames) | 311 | 4.0K | 967K |
 | [Hrry](https://youtube.com/@hrrybrry) | 4 | 12K | 4.7K |
 | [Hat Films](https://youtube.com/@hatfilms) | 5.3K | 851K | 562M |
 | [Hat Films Live](https://youtube.com/@hatfilmslive) | 134 | 6.6K | 54K |
@@ -61,7 +61,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 584K | 229M |
 | [Rythian](https://youtube.com/@rythian) | 2.6K | 577K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 69 | 1.5K | 328K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 46 | 490 | 2.4K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 47 | 489 | 2.5K |
 | [Sherlock Hulmes](https://youtube.com/@sherlockhulmesdm) | 12 | 50K | 2.8M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 739M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 4.9K | 211K | 107M |
@@ -81,8 +81,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Civilization](https://youtube.com/@yogsciv) | 1.4K | 277K | 117M |
-| [Games Night](https://youtube.com/@gamesnight) | 665 | 262K | 51M |
-| [High Rollers DnD](https://youtube.com/@highrollersdnd) | 599 | 216K | 56M |
+| [Games Night](https://youtube.com/@gamesnight) | 666 | 262K | 51M |
+| [High Rollers DnD](https://youtube.com/@highrollersdnd) | 600 | 216K | 56M |
 | [Lewis and Ben Save the World](https://youtube.com/@lewisandben) | 531 | 70K | 17M |
 | [Mystery Quest](https://youtube.com/@mystery_quest) | 219 | 97K | 11M |
 | [Team Double Dragon](https://youtube.com/@doubledragon) | 756 | 243K | 66M |
@@ -139,7 +139,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [RosieMaybe](https://youtube.com/@rosiemaybe) | 49 | 2.0K | 298K |
 | [Rukart Bert](https://youtube.com/@rukartbert) | 131 | 99K | 28M |
 | [Scott Stutzman](https://youtube.com/@scottstutzmanlagoon) | 349 | 940 | 326K |
-| [Shononoki](https://youtube.com/@shononoki) | 12 | 860 | 131K |
+| [Shononoki](https://youtube.com/@shononoki) | 12 | 859 | 131K |
 | [The Occasional Clabon](https://youtube.com/@theoccasionalclabon) | 49 | 11K | 4.4M |
 | [TheSofaBearKing](https://youtube.com/@thesofabearking2) | 28 | 807 | 1.8M |
 | [TheMultiMechs](https://youtube.com/@themultimechs) | 132 | 2.5K | 691K |
