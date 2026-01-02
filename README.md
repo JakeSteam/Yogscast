@@ -26,7 +26,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Ben (Yogscast)](https://youtube.com/@benyogscast6594) | 0 | 5.7K | 0 |
 | [YOGSCAST Best Bits](https://youtube.com/@yogscastbestbits) | 752 | 36K | 18M |
 | [boba](https://youtube.com/@boba69) | 1.7K | 32K | 5.6M |
-| [Bokoen1](https://youtube.com/@bokoen1) | 1.2K | 391K | 417M |
+| [Bokoen1](https://youtube.com/@bokoen1) | 1.2K | 391K | 418M |
 | [Bouphe](https://youtube.com/@bouphe) | 19 | 27K | 303K |
 | [brionykay](https://youtube.com/@brionykay_) | 306 | 6.7K | 963K |
 | [CraigMeUp](https://youtube.com/@craigmeup) | 36 | 2.7K | 213K |
@@ -44,10 +44,10 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [InTheLittleWood VODS](https://youtube.com/@inthelittlewoodlive) | 473 | 36K | 2.7M |
 | [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 139 | 41K | 13M |
 | [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.1K | 842K | 521M |
-| [Joe Hickson](https://youtube.com/@joehickson) | 199 | 19K | 2.2M |
+| [Joe Hickson](https://youtube.com/@joehickson) | 200 | 19K | 2.2M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 583K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 290 | 2.1K | 58K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 492 | 9.2K | 2.7M |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 493 | 9.2K | 2.7M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 893K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 327 | 2.1K | 507K |
 | [Mousie](https://youtube.com/@mousie) | 2.0K | 183K | 53M |
@@ -62,7 +62,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rythian](https://youtube.com/@rythian) | 2.6K | 576K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 69 | 1.5K | 329K |
 | [shadowatnoon](https://youtube.com/@shadowatnoon) | 74 | 549 | 4.0K |
-| [Sherlock Hulmes](https://youtube.com/@sherlockhulmesdm) | 12 | 50K | 2.8M |
+| [Sherlock Hulmes](https://youtube.com/@sherlockhulmesdm) | 12 | 51K | 2.8M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 739M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 4.9K | 212K | 108M |
 | [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 747 | 4.4M | 1.1B |
