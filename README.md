@@ -11,7 +11,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Yogscast](https://youtube.com/@yogscast) | 7.6K | 7.1M | 4.7B |
-| [Yogscast Games](https://youtube.com/@yogscastgames) | 275 | 3.8K | 897K |
+| [Yogscast Games](https://youtube.com/@yogscastgames) | 275 | 3.8K | 898K |
 | [Yogscast Shorts](https://youtube.com/@yogscastshorts) | 161 | 12K | 2.0M |
 | [Yogscast Live](https://youtube.com/@yogslive) | 4.6K | 248K | 115M |
 
@@ -28,7 +28,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [boba](https://youtube.com/@boba69) | 1.7K | 32K | 5.6M |
 | [Bokoen1](https://youtube.com/@bokoen1) | 1.2K | 391K | 418M |
 | [Bouphe](https://youtube.com/@bouphe) | 19 | 27K | 304K |
-| [brionykay](https://youtube.com/@brionykay_) | 306 | 6.8K | 966K |
+| [brionykay](https://youtube.com/@brionykay_) | 306 | 6.8K | 967K |
 | [CraigMeUp](https://youtube.com/@craigmeup) | 36 | 2.7K | 214K |
 | [Daltos](https://youtube.com/@daltos) | 32 | 2.3K | 49K |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 1.1K | 52K | 66M |
@@ -55,13 +55,13 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Mousie After Dark](https://youtube.com/@mousieafterdark) | 49 | 3.4K | 47K |
 | [YOGSCAST Nilesy](https://youtube.com/@nilesy) | 1.2K | 488K | 58M |
 | [Osiefish](https://youtube.com/@osiefish) | 131 | 1.9K | 48K |
-| [Pedguin](https://youtube.com/@pedguin) | 2.2K | 380K | 167M |
+| [Pedguin](https://youtube.com/@pedguin) | 2.2K | 381K | 167M |
 | [Pyrion Flax](https://youtube.com/@pyrionflax) | 600 | 168K | 27M |
 | [Ravs_](https://youtube.com/@ravs_) | 553 | 21K | 1.9M |
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 584K | 230M |
 | [Rythian](https://youtube.com/@rythian) | 2.6K | 576K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 69 | 1.5K | 329K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 79 | 557 | 4.1K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 79 | 559 | 4.2K |
 | [Sherlock Hulmes](https://youtube.com/@sherlockhulmesdm) | 12 | 51K | 2.8M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 739M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 4.9K | 212K | 108M |
@@ -104,7 +104,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [3kilgaming](https://youtube.com/@3kilgaming) | 23 | 543 | 706K |
-| [ARGhostie](https://youtube.com/@arghostie) | 20 | 467 | 300K |
+| [ARGhostie](https://youtube.com/@arghostie) | 20 | 467 | 301K |
 | [crumbs](https://youtube.com/@crumbs8) | 685 | 1.8K | 595K |
 | [Content Archive](https://youtube.com/@neeshy) | 406 | 5.5K | 4.3M |
 | [edgar alan chode](https://youtube.com/@edgaralanchode) | 13 | 377 | 64K |
@@ -112,7 +112,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.0K | 1.3M |
 | [jslewis](https://youtube.com/@jslewis) | 33 | 2.3K | 427K |
 | [katherine](https://youtube.com/@specialk137) | 8 | 684 | 1.3M |
-| [Kalakakku](https://youtube.com/@kalakakku_) | 69 | 3.2K | 786K |
+| [Kalakakku](https://youtube.com/@kalakakku_) | 69 | 3.2K | 787K |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 31 | 22K |
 | [Not Hat Films](https://youtube.com/@nothatfilms) | 89 | 4.6K | 1.6M |
 | [OscarFoxtrot](https://youtube.com/@oscarfoxtrot2657) | 363 | 107 | 306K |
@@ -139,7 +139,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [RosieMaybe](https://youtube.com/@rosiemaybe) | 52 | 2.0K | 301K |
 | [Rukart Bert](https://youtube.com/@rukartbert) | 131 | 99K | 28M |
 | [Scott Stutzman](https://youtube.com/@scottstutzmanlagoon) | 349 | 942 | 327K |
-| [Shononoki](https://youtube.com/@shononoki) | 12 | 857 | 134K |
+| [Shononoki](https://youtube.com/@shononoki) | 12 | 856 | 134K |
 | [The Occasional Clabon](https://youtube.com/@theoccasionalclabon) | 49 | 11K | 4.4M |
 | [TheSofaBearKing](https://youtube.com/@thesofabearking2) | 28 | 803 | 1.8M |
 | [TheMultiMechs](https://youtube.com/@themultimechs) | 132 | 2.5K | 695K |
