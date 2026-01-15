@@ -11,7 +11,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Yogscast](https://youtube.com/@yogscast) | 7.6K | 7.1M | 4.7B |
-| [Yogscast Games](https://youtube.com/@yogscastgames) | 276 | 3.8K | 900K |
+| [Yogscast Games](https://youtube.com/@yogscastgames) | 277 | 3.8K | 900K |
 | [Yogscast Shorts](https://youtube.com/@yogscastshorts) | 161 | 12K | 2.0M |
 | [Yogscast Live](https://youtube.com/@yogslive) | 4.6K | 248K | 115M |
 
@@ -40,7 +40,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Hat Gaming](https://youtube.com/@hatfilmsgaming) | 1.1K | 138K | 44M |
 | [Honeydew Live](https://youtube.com/@honeydewlive) | 600 | 30K | 1.2M |
 | [InTheLittleWood](https://youtube.com/@inthelittlewood) | 4.1K | 2.5M | 683M |
-| [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 1.1K | 276K | 38M |
+| [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 1.1K | 276K | 39M |
 | [InTheLittleWood VODS](https://youtube.com/@inthelittlewoodlive) | 473 | 36K | 2.7M |
 | [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 139 | 42K | 13M |
 | [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.1K | 842K | 522M |
@@ -54,14 +54,14 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [HelloFromMousie](https://youtube.com/@hellofrommousie6376) | 17 | 1.4K | 16K |
 | [Mousie After Dark](https://youtube.com/@mousieafterdark) | 49 | 3.4K | 47K |
 | [YOGSCAST Nilesy](https://youtube.com/@nilesy) | 1.2K | 488K | 58M |
-| [Osiefish](https://youtube.com/@osiefish) | 131 | 1.9K | 48K |
+| [Osiefish](https://youtube.com/@osiefish) | 133 | 1.9K | 48K |
 | [Pedguin](https://youtube.com/@pedguin) | 2.2K | 381K | 167M |
 | [Pyrion Flax](https://youtube.com/@pyrionflax) | 600 | 168K | 27M |
 | [Ravs_](https://youtube.com/@ravs_) | 553 | 21K | 1.9M |
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 584K | 230M |
 | [Rythian](https://youtube.com/@rythian) | 2.6K | 576K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 69 | 1.5K | 329K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 81 | 560 | 4.3K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 82 | 561 | 4.3K |
 | [Sherlock Hulmes](https://youtube.com/@sherlockhulmesdm) | 12 | 51K | 2.8M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 740M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 4.9K | 212K | 108M |
@@ -94,25 +94,25 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Hat Chat Podcast](https://youtube.com/@hatchat) | 209 | 36K | 3.3M |
-| [Triforce!](https://youtube.com/@yogpod) | 534 | 143K | 38M |
+| [Triforce!](https://youtube.com/@yogpod) | 535 | 143K | 38M |
 | [Vidiots](https://youtube.com/@vidiotsofficial) | 534 | 41K | 9.1M |
 | [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 67 | 3.0K | 143K |
-| [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 127 | 5.6K | 402K |
+| [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 127 | 5.6K | 403K |
 
 #### Highlights / Clips / Compilations
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [3kilgaming](https://youtube.com/@3kilgaming) | 23 | 543 | 707K |
-| [ARGhostie](https://youtube.com/@arghostie) | 20 | 467 | 301K |
+| [ARGhostie](https://youtube.com/@arghostie) | 20 | 466 | 301K |
 | [crumbs](https://youtube.com/@crumbs8) | 685 | 1.8K | 596K |
 | [Content Archive](https://youtube.com/@neeshy) | 406 | 5.5K | 4.4M |
 | [edgar alan chode](https://youtube.com/@edgaralanchode) | 13 | 377 | 64K |
 | [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 4.8K | 771K |
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.0K | 1.3M |
 | [jslewis](https://youtube.com/@jslewis) | 33 | 2.3K | 427K |
-| [katherine](https://youtube.com/@specialk137) | 8 | 683 | 1.3M |
-| [Kalakakku](https://youtube.com/@kalakakku_) | 69 | 3.2K | 787K |
+| [katherine](https://youtube.com/@specialk137) | 8 | 684 | 1.3M |
+| [Kalakakku](https://youtube.com/@kalakakku_) | 69 | 3.2K | 788K |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 31 | 22K |
 | [Not Hat Films](https://youtube.com/@nothatfilms) | 89 | 4.6K | 1.6M |
 | [OscarFoxtrot](https://youtube.com/@oscarfoxtrot2657) | 363 | 107 | 306K |
