@@ -26,9 +26,9 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Ben (Yogscast)](https://youtube.com/@benyogscast6594) | 0 | 5.7K | 0 |
 | [YOGSCAST Best Bits](https://youtube.com/@yogscastbestbits) | 753 | 36K | 18M |
 | [boba](https://youtube.com/@boba69) | 1.7K | 32K | 5.7M |
-| [Bokoen1](https://youtube.com/@bokoen1) | 1.2K | 392K | 422M |
+| [Bokoen1](https://youtube.com/@bokoen1) | 1.2K | 392K | 423M |
 | [Bouphe](https://youtube.com/@bouphe) | 19 | 27K | 305K |
-| [brionykay](https://youtube.com/@brionykay_) | 306 | 6.8K | 980K |
+| [brionykay](https://youtube.com/@brionykay_) | 306 | 6.8K | 981K |
 | [CraigMeUp](https://youtube.com/@craigmeup) | 36 | 2.7K | 215K |
 | [Daltos](https://youtube.com/@daltos) | 32 | 2.3K | 49K |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 1.1K | 52K | 66M |
@@ -54,18 +54,18 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [HelloFromMousie](https://youtube.com/@hellofrommousie6376) | 17 | 1.4K | 16K |
 | [Mousie After Dark](https://youtube.com/@mousieafterdark) | 49 | 3.4K | 47K |
 | [YOGSCAST Nilesy](https://youtube.com/@nilesy) | 1.2K | 487K | 58M |
-| [Osiefish](https://youtube.com/@osiefish) | 146 | 1.9K | 51K |
+| [Osiefish](https://youtube.com/@osiefish) | 145 | 1.9K | 51K |
 | [Pedguin](https://youtube.com/@pedguin) | 2.2K | 380K | 169M |
 | [Pyrion Flax](https://youtube.com/@pyrionflax) | 600 | 167K | 27M |
 | [Ravs_](https://youtube.com/@ravs_) | 553 | 21K | 1.9M |
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 584K | 230M |
 | [Rythian](https://youtube.com/@rythian) | 2.6K | 575K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 69 | 1.5K | 329K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 104 | 597 | 5.8K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 103 | 597 | 5.9K |
 | [Sherlock Hulmes](https://youtube.com/@sherlockhulmesdm) | 13 | 51K | 2.9M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 740M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.0K | 212K | 109M |
-| [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 751 | 4.4M | 1.1B |
+| [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 752 | 4.4M | 1.1B |
 | [Simon Lane](https://youtube.com/@simonlaneddhm) | 0 | 7.2K | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 93K | 6.8M |
 | [Tom Bates](https://youtube.com/@tombates) | 134 | 755K | 220M |
@@ -96,7 +96,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [The Hat Chat Podcast](https://youtube.com/@hatchat) | 212 | 36K | 3.3M |
 | [Triforce!](https://youtube.com/@yogpod) | 539 | 143K | 39M |
 | [Vidiots](https://youtube.com/@vidiotsofficial) | 535 | 41K | 9.1M |
-| [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 69 | 3.0K | 144K |
+| [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 69 | 3.0K | 145K |
 | [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 127 | 5.6K | 404K |
 
 #### Highlights / Clips / Compilations
