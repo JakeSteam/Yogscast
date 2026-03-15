@@ -11,7 +11,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Yogscast](https://youtube.com/@yogscast) | 7.6K | 7.1M | 4.8B |
-| [Yogscast Games](https://youtube.com/@yogscastgames) | 315 | 3.8K | 971K |
+| [Yogscast Games](https://youtube.com/@yogscastgames) | 315 | 3.8K | 973K |
 | [Yogscast Shorts](https://youtube.com/@yogscastshorts) | 161 | 12K | 2.1M |
 | [Yogscast Live](https://youtube.com/@yogslive) | 4.6K | 247K | 116M |
 
@@ -27,13 +27,13 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [YOGSCAST Best Bits](https://youtube.com/@yogscastbestbits) | 753 | 36K | 18M |
 | [boba](https://youtube.com/@boba69) | 1.7K | 32K | 5.7M |
 | [Bokoen1](https://youtube.com/@bokoen1) | 1.2K | 392K | 426M |
-| [Bouphe](https://youtube.com/@bouphe) | 21 | 27K | 314K |
-| [brionykay](https://youtube.com/@brionykay_) | 306 | 6.8K | 992K |
+| [Bouphe](https://youtube.com/@bouphe) | 21 | 27K | 315K |
+| [brionykay](https://youtube.com/@brionykay_) | 306 | 6.8K | 993K |
 | [CraigMeUp](https://youtube.com/@craigmeup) | 36 | 2.7K | 216K |
 | [Daltos](https://youtube.com/@daltos) | 32 | 2.3K | 49K |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 1.1K | 52K | 66M |
 | [Duncan](https://youtube.com/@duncan) | 5.4K | 1.7M | 801M |
-| [Geestargames](https://youtube.com/@geestargames) | 322 | 4.1K | 993K |
+| [Geestargames](https://youtube.com/@geestargames) | 322 | 4.1K | 994K |
 | [Hrry](https://youtube.com/@hrrybrry) | 0 | 12K | 0 |
 | [Hat Films](https://youtube.com/@hatfilms) | 5.5K | 849K | 568M |
 | [Hat Films Live](https://youtube.com/@hatfilmslive) | 134 | 6.6K | 55K |
@@ -43,11 +43,11 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 1.1K | 279K | 40M |
 | [InTheLittleWood VODS](https://youtube.com/@inthelittlewoodlive) | 473 | 36K | 2.7M |
 | [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 139 | 42K | 13M |
-| [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.1K | 847K | 529M |
+| [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.1K | 847K | 530M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 187 | 19K | 1.7M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 582K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 298 | 2.2K | 61K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 559 | 9.6K | 3.1M |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 561 | 9.6K | 3.1M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 894K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 327 | 2.1K | 508K |
 | [Mousie](https://youtube.com/@mousie) | 2.1K | 183K | 53M |
@@ -61,14 +61,14 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 584K | 231M |
 | [Rythian](https://youtube.com/@rythian) | 2.6K | 575K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 69 | 1.5K | 329K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 123 | 621 | 7.1K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 123 | 621 | 7.2K |
 | [Sherlock Hulmes](https://youtube.com/@sherlockhulmesdm) | 16 | 51K | 2.9M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 740M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.0K | 212K | 110M |
 | [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 756 | 4.4M | 1.1B |
 | [Simon Lane](https://youtube.com/@simonlaneddhm) | 0 | 7.2K | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 92K | 6.8M |
-| [Tom Bates](https://youtube.com/@tombates) | 136 | 757K | 223M |
+| [Tom Bates](https://youtube.com/@tombates) | 137 | 757K | 223M |
 | [Vadact](https://youtube.com/@vadact) | 2.1K | 1.3M | 303M |
 | [Wilsonator](https://youtube.com/@wilsonator) | 627 | 545K | 67M |
 | [xenophyte](https://youtube.com/@xenophyte) | 412 | 51K | 28M |
@@ -97,7 +97,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Triforce!](https://youtube.com/@yogpod) | 543 | 142K | 39M |
 | [Vidiots](https://youtube.com/@vidiotsofficial) | 536 | 41K | 9.1M |
 | [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 71 | 3.0K | 146K |
-| [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 127 | 5.5K | 405K |
+| [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 127 | 5.5K | 406K |
 
 #### Highlights / Clips / Compilations
 
@@ -112,7 +112,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.0K | 1.3M |
 | [jslewis](https://youtube.com/@jslewis) | 33 | 2.3K | 432K |
 | [katherine](https://youtube.com/@specialk137) | 8 | 684 | 1.3M |
-| [Kalakakku](https://youtube.com/@kalakakku_) | 69 | 3.2K | 806K |
+| [Kalakakku](https://youtube.com/@kalakakku_) | 69 | 3.2K | 807K |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 31 | 22K |
 | [Not Hat Films](https://youtube.com/@nothatfilms) | 89 | 4.6K | 1.6M |
 | [OscarFoxtrot](https://youtube.com/@oscarfoxtrot2657) | 363 | 107 | 311K |
@@ -138,8 +138,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Madcat Productions](https://youtube.com/@caturdaycartoons) | 64 | 911 | 369K |
 | [RosieMaybe](https://youtube.com/@rosiemaybe) | 53 | 2.1K | 310K |
 | [Rukart Bert](https://youtube.com/@rukartbert) | 131 | 99K | 29M |
-| [Scott Stutzman](https://youtube.com/@scottstutzmanlagoon) | 349 | 942 | 328K |
-| [Shononoki](https://youtube.com/@shononoki) | 12 | 855 | 135K |
+| [Scott Stutzman](https://youtube.com/@scottstutzmanlagoon) | 349 | 943 | 328K |
+| [Shononoki](https://youtube.com/@shononoki) | 12 | 854 | 135K |
 | [The Occasional Clabon](https://youtube.com/@theoccasionalclabon) | 49 | 11K | 4.4M |
 | [TheSofaBearKing](https://youtube.com/@thesofabearking2) | 28 | 804 | 1.8M |
 | [TheMultiMechs](https://youtube.com/@themultimechs) | 132 | 2.6K | 700K |
