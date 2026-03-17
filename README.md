@@ -11,7 +11,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Yogscast](https://youtube.com/@yogscast) | 7.6K | 7.1M | 4.8B |
-| [Yogscast Games](https://youtube.com/@yogscastgames) | 315 | 3.8K | 973K |
+| [Yogscast Games](https://youtube.com/@yogscastgames) | 316 | 3.8K | 973K |
 | [Yogscast Shorts](https://youtube.com/@yogscastshorts) | 161 | 12K | 2.1M |
 | [Yogscast Live](https://youtube.com/@yogslive) | 4.6K | 247K | 116M |
 
@@ -19,7 +19,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Alex The Rambler!](https://youtube.com/@alextherambler) | 2.0K | 436K | 195M |
+| [Alex The Rambler!](https://youtube.com/@alextherambler) | 2.0K | 435K | 195M |
 | [Angory Tom](https://youtube.com/@angorytom) | 3.6K | 264K | 185M |
 | [Bekkiboom](https://youtube.com/@bekkibooom) | 104 | 3.3K | 57K |
 | [Conquest!](https://youtube.com/@conquest) | 136 | 57K | 3.0M |
@@ -31,11 +31,11 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [brionykay](https://youtube.com/@brionykay_) | 306 | 6.8K | 994K |
 | [CraigMeUp](https://youtube.com/@craigmeup) | 36 | 2.7K | 216K |
 | [Daltos](https://youtube.com/@daltos) | 32 | 2.3K | 49K |
-| [Drakon Astron](https://youtube.com/@drakonastron) | 1.1K | 52K | 66M |
+| [Drakon Astron](https://youtube.com/@drakonastron) | 1.1K | 51K | 66M |
 | [Duncan](https://youtube.com/@duncan) | 5.4K | 1.7M | 801M |
-| [Geestargames](https://youtube.com/@geestargames) | 323 | 4.1K | 995K |
+| [Geestargames](https://youtube.com/@geestargames) | 323 | 4.1K | 996K |
 | [Hrry](https://youtube.com/@hrrybrry) | 0 | 12K | 0 |
-| [Hat Films](https://youtube.com/@hatfilms) | 5.5K | 849K | 568M |
+| [Hat Films](https://youtube.com/@hatfilms) | 5.6K | 849K | 568M |
 | [Hat Films Live](https://youtube.com/@hatfilmslive) | 134 | 6.6K | 55K |
 | [Hat Gaming](https://youtube.com/@hatfilmsgaming) | 1.1K | 138K | 44M |
 | [Honeydew Live](https://youtube.com/@honeydewlive) | 600 | 30K | 1.2M |
