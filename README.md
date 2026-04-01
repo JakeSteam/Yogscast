@@ -35,7 +35,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Duncan](https://youtube.com/@duncan) | 5.4K | 1.7M | 801M |
 | [Geestargames](https://youtube.com/@geestargames) | 324 | 4.1K | 998K |
 | [Hrry](https://youtube.com/@hrrybrry) | 0 | 12K | 0 |
-| [Hat Films](https://youtube.com/@hatfilms) | 5.6K | 849K | 569M |
+| [Hat Films](https://youtube.com/@hatfilms) | 5.6K | 848K | 569M |
 | [Hat Films Live](https://youtube.com/@hatfilmslive) | 134 | 6.6K | 55K |
 | [Hat Gaming](https://youtube.com/@hatfilmsgaming) | 1.1K | 138K | 44M |
 | [Honeydew Live](https://youtube.com/@honeydewlive) | 600 | 30K | 1.2M |
@@ -46,22 +46,22 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.1K | 849K | 532M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 188 | 19K | 1.7M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 582K | 166M |
-| [Kirsty](https://youtube.com/@kirstyyt) | 300 | 2.2K | 61K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 576 | 9.8K | 3.3M |
+| [Kirsty](https://youtube.com/@kirstyyt) | 301 | 2.2K | 62K |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 578 | 9.8K | 3.3M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 894K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 327 | 2.1K | 508K |
 | [Mousie](https://youtube.com/@mousie) | 2.1K | 182K | 53M |
 | [HelloFromMousie](https://youtube.com/@hellofrommousie6376) | 17 | 1.4K | 16K |
 | [Mousie After Dark](https://youtube.com/@mousieafterdark) | 49 | 3.4K | 47K |
 | [YOGSCAST Nilesy](https://youtube.com/@nilesy) | 1.2K | 487K | 58M |
-| [Osiefish](https://youtube.com/@osiefish) | 163 | 1.9K | 54K |
+| [Osiefish](https://youtube.com/@osiefish) | 163 | 2.0K | 55K |
 | [Pedguin](https://youtube.com/@pedguin) | 2.2K | 380K | 170M |
 | [Pyrion Flax](https://youtube.com/@pyrionflax) | 600 | 167K | 27M |
 | [Ravs_](https://youtube.com/@ravs_) | 553 | 21K | 1.9M |
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 584K | 231M |
 | [Rythian](https://youtube.com/@rythian) | 2.6K | 575K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 69 | 1.5K | 329K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 132 | 628 | 7.8K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 134 | 629 | 7.8K |
 | [Mara Holmes](https://youtube.com/@maraholmesdm) | 19 | 52K | 3.0M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 740M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.0K | 212K | 110M |
@@ -82,7 +82,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | --- | --- | --- | --- |
 | [Civilization](https://youtube.com/@yogsciv) | 1.4K | 276K | 118M |
 | [Games Night](https://youtube.com/@gamesnight) | 687 | 266K | 53M |
-| [High Rollers DnD](https://youtube.com/@highrollersdnd) | 624 | 217K | 58M |
+| [High Rollers DnD](https://youtube.com/@highrollersdnd) | 625 | 217K | 58M |
 | [Lewis and Ben Save the World](https://youtube.com/@lewisandben) | 531 | 69K | 17M |
 | [Mystery Quest](https://youtube.com/@mystery_quest) | 258 | 100K | 13M |
 | [Team Double Dragon](https://youtube.com/@doubledragon) | 756 | 241K | 66M |
@@ -107,7 +107,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [ARGhostie](https://youtube.com/@arghostie) | 20 | 465 | 304K |
 | [crumbs](https://youtube.com/@crumbs8) | 685 | 1.8K | 602K |
 | [Content Archive](https://youtube.com/@neeshy) | 406 | 5.5K | 4.4M |
-| [edgar alan chode](https://youtube.com/@edgaralanchode) | 13 | 378 | 65K |
+| [edgar alan chode](https://youtube.com/@edgaralanchode) | 13 | 377 | 65K |
 | [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 4.8K | 776K |
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.0K | 1.3M |
 | [jslewis](https://youtube.com/@jslewis) | 33 | 2.3K | 434K |
@@ -120,7 +120,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Richard Cox](https://youtube.com/@richardcox0) | 3 | 270 | 303K |
 | [Ali Sleiman](https://youtube.com/@somerandim7280) | 5 | 49 | 41K |
 | [Some Yognaut on the Internet](https://youtube.com/@someyognautontheinternet3680) | 105 | 11K | 6.0M |
-| [Trottclate Rain (Fannotation)](https://youtube.com/@trottclaterain4996) | 4 | 483 | 297K |
+| [Trottclate Rain (Fannotation)](https://youtube.com/@trottclaterain4996) | 4 | 483 | 298K |
 | [Trotts Bulge](https://youtube.com/@trottsbulge2726) | 4 | 14 | 27K |
 | [Xhenix](https://youtube.com/@xhenix) | 248 | 14K | 9.2M |
 | [YogPOG](https://youtube.com/@yogpog) | 214 | 7.4K | 5.8M |
