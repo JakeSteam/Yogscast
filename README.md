@@ -23,7 +23,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Angory Tom](https://youtube.com/@angorytom) | 3.6K | 264K | 186M |
 | [Bekkiboom](https://youtube.com/@bekkibooom) | 104 | 3.3K | 57K |
 | [Conquest!](https://youtube.com/@conquest) | 136 | 57K | 3.0M |
-| [Ben (Yogscast)](https://youtube.com/@benyogscast6594) | 0 | 5.7K | 0 |
+| [Ben (Yogscast)](https://youtube.com/@benyogscast6594) | 0 | 5.6K | 0 |
 | [YOGSCAST Best Bits](https://youtube.com/@yogscastbestbits) | 753 | 36K | 18M |
 | [boba](https://youtube.com/@boba69) | 1.7K | 32K | 5.8M |
 | [Bokoen1](https://youtube.com/@bokoen1) | 1.2K | 393K | 429M |
@@ -47,7 +47,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Joe Hickson](https://youtube.com/@joehickson) | 188 | 19K | 1.7M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 581K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 303 | 2.3K | 63K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 583 | 9.9K | 3.3M |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 584 | 9.9K | 3.3M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 894K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 327 | 2.1K | 508K |
 | [Mousie](https://youtube.com/@mousie) | 2.1K | 182K | 53M |
@@ -61,15 +61,15 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 584K | 231M |
 | [Rythian](https://youtube.com/@rythian) | 2.6K | 575K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 69 | 1.5K | 329K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 137 | 630 | 7.9K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 137 | 629 | 8.0K |
 | [Mara Holmes](https://youtube.com/@maraholmesdm) | 19 | 52K | 3.0M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 740M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.0K | 212K | 110M |
 | [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 764 | 4.5M | 1.1B |
 | [Simon Lane](https://youtube.com/@simonlaneddhm) | 0 | 7.2K | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 92K | 6.8M |
-| [Tom Bates](https://youtube.com/@tombates) | 138 | 759K | 225M |
-| [Vadact](https://youtube.com/@vadact) | 2.1K | 1.3M | 305M |
+| [Tom Bates](https://youtube.com/@tombates) | 138 | 759K | 226M |
+| [Vadact](https://youtube.com/@vadact) | 2.1K | 1.3M | 306M |
 | [Wilsonator](https://youtube.com/@wilsonator) | 627 | 545K | 67M |
 | [xenophyte](https://youtube.com/@xenophyte) | 412 | 51K | 28M |
 | [sarah](https://youtube.com/@yogtok) | 23 | 7.5K | 701K |
@@ -108,9 +108,9 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [crumbs](https://youtube.com/@crumbs8) | 685 | 1.8K | 602K |
 | [Content Archive](https://youtube.com/@neeshy) | 406 | 5.5K | 4.4M |
 | [edgar alan chode](https://youtube.com/@edgaralanchode) | 13 | 377 | 65K |
-| [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 4.8K | 776K |
+| [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 4.8K | 777K |
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.0K | 1.3M |
-| [jslewis](https://youtube.com/@jslewis) | 33 | 2.2K | 434K |
+| [jslewis](https://youtube.com/@jslewis) | 33 | 2.2K | 435K |
 | [katherine](https://youtube.com/@specialk137) | 8 | 682 | 1.3M |
 | [Kalakakku](https://youtube.com/@kalakakku_) | 69 | 3.2K | 812K |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 31 | 22K |
