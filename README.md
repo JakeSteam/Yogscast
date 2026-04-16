@@ -47,21 +47,21 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Joe Hickson](https://youtube.com/@joehickson) | 188 | 19K | 1.7M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 581K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 303 | 2.3K | 63K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 598 | 10K | 3.4M |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 599 | 10K | 3.4M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 894K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 327 | 2.1K | 508K |
 | [Mousie](https://youtube.com/@mousie) | 2.1K | 182K | 53M |
 | [HelloFromMousie](https://youtube.com/@hellofrommousie6376) | 17 | 1.4K | 16K |
 | [Mousie After Dark](https://youtube.com/@mousieafterdark) | 49 | 3.4K | 47K |
 | [YOGSCAST Nilesy](https://youtube.com/@nilesy) | 1.2K | 487K | 58M |
-| [Osiefish](https://youtube.com/@osiefish) | 167 | 2.0K | 56K |
+| [Osiefish](https://youtube.com/@osiefish) | 168 | 2.0K | 56K |
 | [Pedguin](https://youtube.com/@pedguin) | 2.2K | 380K | 170M |
 | [Pyrion Flax](https://youtube.com/@pyrionflax) | 600 | 167K | 27M |
 | [Ravs_](https://youtube.com/@ravs_) | 553 | 21K | 1.9M |
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 583K | 232M |
 | [Rythian](https://youtube.com/@rythian) | 2.7K | 574K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 69 | 1.5K | 329K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 141 | 637 | 8.4K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 141 | 638 | 8.4K |
 | [Mara Holmes](https://youtube.com/@maraholmesdm) | 19 | 52K | 3.0M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 740M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.0K | 211K | 110M |
@@ -94,7 +94,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Hat Chat Podcast](https://youtube.com/@hatchat) | 218 | 36K | 3.4M |
-| [Triforce!](https://youtube.com/@yogpod) | 547 | 142K | 39M |
+| [Triforce!](https://youtube.com/@yogpod) | 548 | 142K | 39M |
 | [Vidiots](https://youtube.com/@vidiotsofficial) | 536 | 41K | 9.1M |
 | [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 75 | 3.1K | 151K |
 | [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 127 | 5.5K | 407K |
@@ -112,10 +112,10 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.0K | 1.3M |
 | [jslewis](https://youtube.com/@jslewis) | 33 | 2.2K | 436K |
 | [katherine](https://youtube.com/@specialk137) | 8 | 681 | 1.3M |
-| [Kalakakku](https://youtube.com/@kalakakku_) | 69 | 3.2K | 814K |
+| [Kalakakku](https://youtube.com/@kalakakku_) | 69 | 3.2K | 815K |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 31 | 22K |
 | [Not Hat Films](https://youtube.com/@nothatfilms) | 89 | 4.6K | 1.6M |
-| [OscarFoxtrot](https://youtube.com/@oscarfoxtrot2657) | 363 | 108 | 314K |
+| [OscarFoxtrot](https://youtube.com/@oscarfoxtrot2657) | 363 | 109 | 314K |
 | [Retcina](https://youtube.com/@thegrimur) | 50 | 3.1K | 6.3M |
 | [Richard Cox](https://youtube.com/@richardcox0) | 3 | 269 | 303K |
 | [Ali Sleiman](https://youtube.com/@somerandim7280) | 5 | 49 | 41K |
