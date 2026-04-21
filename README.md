@@ -47,7 +47,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Joe Hickson](https://youtube.com/@joehickson) | 188 | 19K | 1.7M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 581K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 303 | 2.3K | 63K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 602 | 10K | 3.5M |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 603 | 10K | 3.5M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 894K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 327 | 2.1K | 508K |
 | [Mousie](https://youtube.com/@mousie) | 2.1K | 182K | 53M |
@@ -93,7 +93,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [The Hat Chat Podcast](https://youtube.com/@hatchat) | 218 | 36K | 3.4M |
+| [The Hat Chat Podcast](https://youtube.com/@hatchat) | 219 | 36K | 3.4M |
 | [Triforce!](https://youtube.com/@yogpod) | 548 | 142K | 39M |
 | [Vidiots](https://youtube.com/@vidiotsofficial) | 536 | 41K | 9.1M |
 | [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 75 | 3.1K | 151K |
@@ -107,11 +107,11 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [ARGhostie](https://youtube.com/@arghostie) | 20 | 466 | 304K |
 | [crumbs](https://youtube.com/@crumbs8) | 685 | 1.8K | 604K |
 | [Content Archive](https://youtube.com/@neeshy) | 406 | 5.5K | 4.4M |
-| [edgar alan chode](https://youtube.com/@edgaralanchode) | 13 | 377 | 65K |
-| [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 4.8K | 777K |
+| [edgar alan chode](https://youtube.com/@edgaralanchode) | 13 | 376 | 65K |
+| [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 4.8K | 778K |
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.0K | 1.3M |
 | [jslewis](https://youtube.com/@jslewis) | 33 | 2.2K | 436K |
-| [katherine](https://youtube.com/@specialk137) | 8 | 683 | 1.3M |
+| [katherine](https://youtube.com/@specialk137) | 8 | 684 | 1.3M |
 | [Kalakakku](https://youtube.com/@kalakakku_) | 69 | 3.2K | 816K |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 31 | 22K |
 | [Not Hat Films](https://youtube.com/@nothatfilms) | 89 | 4.6K | 1.6M |
