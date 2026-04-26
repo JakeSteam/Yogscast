@@ -47,7 +47,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Joe Hickson](https://youtube.com/@joehickson) | 188 | 19K | 1.7M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 581K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 303 | 2.3K | 63K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 604 | 11K | 3.5M |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 607 | 11K | 3.5M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 894K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 327 | 2.1K | 508K |
 | [Mousie](https://youtube.com/@mousie) | 2.1K | 182K | 53M |
@@ -96,7 +96,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [The Hat Chat Podcast](https://youtube.com/@hatchat) | 219 | 36K | 3.4M |
 | [Triforce!](https://youtube.com/@yogpod) | 549 | 142K | 39M |
 | [Vidiots](https://youtube.com/@vidiotsofficial) | 536 | 41K | 9.1M |
-| [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 76 | 3.1K | 151K |
+| [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 76 | 3.1K | 152K |
 | [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 127 | 5.5K | 407K |
 
 #### Highlights / Clips / Compilations
@@ -112,7 +112,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.0K | 1.3M |
 | [jslewis](https://youtube.com/@jslewis) | 33 | 2.2K | 436K |
 | [katherine](https://youtube.com/@specialk137) | 8 | 684 | 1.3M |
-| [Kalakakku](https://youtube.com/@kalakakku_) | 69 | 3.2K | 817K |
+| [Kalakakku](https://youtube.com/@kalakakku_) | 69 | 3.2K | 818K |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 31 | 22K |
 | [Not Hat Films](https://youtube.com/@nothatfilms) | 89 | 4.6K | 1.6M |
 | [OscarFoxtrot](https://youtube.com/@oscarfoxtrot2657) | 363 | 108 | 315K |
@@ -138,7 +138,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Madcat Productions](https://youtube.com/@caturdaycartoons) | 64 | 911 | 369K |
 | [RosieMaybe](https://youtube.com/@rosiemaybe) | 53 | 2.1K | 310K |
 | [Rukart Bert](https://youtube.com/@rukartbert) | 132 | 99K | 29M |
-| [Scott Stutzman](https://youtube.com/@scottstutzmanlagoon) | 349 | 941 | 329K |
+| [Scott Stutzman](https://youtube.com/@scottstutzmanlagoon) | 349 | 942 | 329K |
 | [Shononoki](https://youtube.com/@shononoki) | 12 | 852 | 135K |
 | [The Occasional Clabon](https://youtube.com/@theoccasionalclabon) | 49 | 11K | 4.4M |
 | [Sofa's Edits](https://youtube.com/@thesofabearking2) | 28 | 802 | 1.8M |
