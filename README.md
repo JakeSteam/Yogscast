@@ -11,7 +11,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Yogscast](https://youtube.com/@yogscast) | 7.7K | 7.1M | 4.8B |
-| [Yogscast Games](https://youtube.com/@yogscastgames) | 347 | 4.0K | 1.3M |
+| [Yogscast Games](https://youtube.com/@yogscastgames) | 348 | 4.0K | 1.3M |
 | [Yogscast Shorts](https://youtube.com/@yogscastshorts) | 161 | 12K | 2.1M |
 | [Yogscast Live](https://youtube.com/@yogslive) | 4.6K | 247K | 116M |
 
@@ -44,10 +44,10 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [InTheLittleWood VODS](https://youtube.com/@inthelittlewoodlive) | 473 | 36K | 2.7M |
 | [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 139 | 42K | 13M |
 | [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.2K | 851K | 539M |
-| [Joe Hickson](https://youtube.com/@joehickson) | 189 | 19K | 1.7M |
+| [Joe Hickson](https://youtube.com/@joehickson) | 190 | 19K | 1.7M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 581K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 303 | 2.3K | 64K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 653 | 11K | 5.1M |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 655 | 11K | 5.1M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 895K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 327 | 2.1K | 508K |
 | [Mousie](https://youtube.com/@mousie) | 2.1K | 182K | 53M |
@@ -68,8 +68,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 777 | 4.5M | 1.1B |
 | [Simon Lane](https://youtube.com/@simonlaneddhm) | 0 | 7.2K | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 92K | 6.8M |
-| [Tom Bates](https://youtube.com/@tombates) | 142 | 763K | 233M |
-| [Vadact](https://youtube.com/@vadact) | 2.1K | 1.3M | 310M |
+| [Tom Bates](https://youtube.com/@tombates) | 142 | 764K | 234M |
+| [Vadact](https://youtube.com/@vadact) | 2.1K | 1.3M | 311M |
 | [Wilsonator](https://youtube.com/@wilsonator) | 627 | 544K | 67M |
 | [xenophyte](https://youtube.com/@xenophyte) | 412 | 51K | 28M |
 | [sarah](https://youtube.com/@yogtok) | 24 | 7.6K | 711K |
@@ -95,8 +95,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | --- | --- | --- | --- |
 | [The Hat Chat Podcast](https://youtube.com/@hatchat) | 222 | 36K | 3.4M |
 | [Triforce!](https://youtube.com/@yogpod) | 554 | 142K | 39M |
-| [Vidiots](https://youtube.com/@vidiotsofficial) | 536 | 41K | 9.1M |
-| [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 78 | 3.1K | 153K |
+| [Vidiots](https://youtube.com/@vidiotsofficial) | 536 | 40K | 9.1M |
+| [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 78 | 3.1K | 154K |
 | [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 127 | 5.5K | 409K |
 
 #### Highlights / Clips / Compilations
