@@ -36,7 +36,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Geestargames](https://youtube.com/@geestargames) | 350 | 4.2K | 1.1M |
 | [Hrry](https://youtube.com/@hrrybrry) | 0 | 12K | 0 |
 | [Hat Films](https://youtube.com/@hatfilms) | 5.8K | 847K | 574M |
-| [Hat Films Live](https://youtube.com/@hatfilmslive) | 134 | 6.5K | 56K |
+| [Hat Films Live](https://youtube.com/@hatfilmslive) | 134 | 6.6K | 56K |
 | [Hat Gaming](https://youtube.com/@hatfilmsgaming) | 1.1K | 137K | 44M |
 | [Honeydew Live](https://youtube.com/@honeydewlive) | 600 | 30K | 1.2M |
 | [InTheLittleWood](https://youtube.com/@inthelittlewood) | 4.1K | 2.5M | 684M |
@@ -46,8 +46,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.2K | 852K | 540M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 197 | 19K | 1.8M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 580K | 166M |
-| [Kirsty](https://youtube.com/@kirstyyt) | 308 | 2.3K | 65K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 678 | 12K | 5.6M |
+| [Kirsty](https://youtube.com/@kirstyyt) | 310 | 2.3K | 65K |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 679 | 12K | 5.6M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 895K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 327 | 2.1K | 509K |
 | [Mousie](https://youtube.com/@mousie) | 2.1K | 182K | 53M |
@@ -61,8 +61,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 584K | 234M |
 | [Rythian](https://youtube.com/@rythian) | 2.7K | 573K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 70 | 1.5K | 329K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 181 | 725 | 13K |
-| [Mara Holmes](https://youtube.com/@maraholmesdm) | 20 | 52K | 3.0M |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 182 | 723 | 13K |
+| [Mara Holmes](https://youtube.com/@maraholmesdm) | 20 | 52K | 3.1M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 740M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.1K | 211K | 111M |
 | [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 782 | 4.5M | 1.2B |
@@ -82,7 +82,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | --- | --- | --- | --- |
 | [Civilization](https://youtube.com/@yogsciv) | 1.5K | 275K | 118M |
 | [Games Night](https://youtube.com/@gamesnight) | 702 | 267K | 55M |
-| [High Rollers DnD](https://youtube.com/@highrollersdnd) | 638 | 217K | 59M |
+| [High Rollers DnD](https://youtube.com/@highrollersdnd) | 639 | 217K | 59M |
 | [Lewis and Ben Save the World](https://youtube.com/@lewisandben) | 531 | 69K | 17M |
 | [Mystery Quest](https://youtube.com/@mystery_quest) | 277 | 103K | 15M |
 | [Team Double Dragon](https://youtube.com/@doubledragon) | 756 | 240K | 66M |
