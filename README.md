@@ -11,7 +11,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Yogscast](https://youtube.com/@yogscast) | 7.7K | 7.1M | 4.8B |
-| [Yogscast Games](https://youtube.com/@yogscastgames) | 369 | 4.0K | 1.3M |
+| [Yogscast Games](https://youtube.com/@yogscastgames) | 370 | 4.0K | 1.3M |
 | [Yogscast Shorts](https://youtube.com/@yogscastshorts) | 161 | 12K | 2.1M |
 | [Yogscast Live](https://youtube.com/@yogslive) | 4.6K | 246K | 116M |
 
@@ -47,7 +47,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Joe Hickson](https://youtube.com/@joehickson) | 197 | 19K | 1.8M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 580K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 320 | 2.3K | 67K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 685 | 12K | 5.8M |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 686 | 12K | 5.8M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 895K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 327 | 2.1K | 509K |
 | [Mousie](https://youtube.com/@mousie) | 2.1K | 182K | 53M |
@@ -63,7 +63,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rythian II](https://youtube.com/@dxphoenix) | 70 | 1.5K | 329K |
 | [shadowatnoon](https://youtube.com/@shadowatnoon) | 186 | 727 | 13K |
 | [Mara Holmes](https://youtube.com/@maraholmesdm) | 20 | 52K | 3.1M |
-| [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 740M |
+| [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 741M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.1K | 211K | 111M |
 | [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 783 | 4.5M | 1.2B |
 | [Simon Lane](https://youtube.com/@simonlaneddhm) | 0 | 7.2K | 0 |
@@ -87,7 +87,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Mystery Quest](https://youtube.com/@mystery_quest) | 278 | 103K | 15M |
 | [Team Double Dragon](https://youtube.com/@doubledragon) | 756 | 240K | 66M |
 | [Today I Played](https://youtube.com/@tip_) | 118 | 41K | 2.6M |
-| [Tom dynamic-channel-data Ben](https://youtube.com/@tomben8737) | 12 | 18K | 636K |
+| [Tom dynamic-channel-data Ben](https://youtube.com/@tomben8737) | 12 | 18K | 637K |
 
 #### Podcasts
 
