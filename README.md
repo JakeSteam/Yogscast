@@ -33,7 +33,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Daltos](https://youtube.com/@daltos) | 32 | 2.3K | 49K |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 1.1K | 51K | 67M |
 | [Duncan](https://youtube.com/@duncan) | 5.5K | 1.7M | 804M |
-| [Geestargames](https://youtube.com/@geestargames) | 351 | 4.2K | 1.1M |
+| [Geestargames](https://youtube.com/@geestargames) | 352 | 4.2K | 1.1M |
 | [Hrry](https://youtube.com/@hrrybrry) | 0 | 12K | 0 |
 | [Hat Films](https://youtube.com/@hatfilms) | 5.8K | 847K | 574M |
 | [Hat Films Live](https://youtube.com/@hatfilmslive) | 134 | 6.5K | 56K |
@@ -46,8 +46,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.2K | 853K | 539M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 197 | 19K | 1.8M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 580K | 166M |
-| [Kirsty](https://youtube.com/@kirstyyt) | 322 | 2.3K | 66K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 689 | 12K | 5.8M |
+| [Kirsty](https://youtube.com/@kirstyyt) | 323 | 2.3K | 67K |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 690 | 12K | 5.8M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 895K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 327 | 2.1K | 509K |
 | [Mousie](https://youtube.com/@mousie) | 2.1K | 182K | 53M |
@@ -61,7 +61,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 584K | 234M |
 | [Rythian](https://youtube.com/@rythian) | 2.7K | 573K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 70 | 1.5K | 329K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 187 | 734 | 13K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 188 | 734 | 13K |
 | [Mara Holmes](https://youtube.com/@maraholmesdm) | 20 | 52K | 3.1M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 741M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.1K | 211K | 111M |
@@ -69,7 +69,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Simon Lane](https://youtube.com/@simonlaneddhm) | 0 | 7.2K | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 92K | 6.8M |
 | [Tom Bates](https://youtube.com/@tombates) | 145 | 774K | 246M |
-| [Vadact](https://youtube.com/@vadact) | 2.1K | 1.3M | 315M |
+| [Vadact](https://youtube.com/@vadact) | 2.1K | 1.3M | 316M |
 | [Wilsonator](https://youtube.com/@wilsonator) | 627 | 543K | 67M |
 | [xenophyte](https://youtube.com/@xenophyte) | 412 | 51K | 28M |
 | [sarah](https://youtube.com/@yogtok) | 24 | 7.6K | 714K |
