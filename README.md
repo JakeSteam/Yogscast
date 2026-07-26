@@ -26,11 +26,11 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Ben (Yogscast)](https://youtube.com/@benyogscast6594) | 0 | 5.6K | 0 |
 | [YOGSCAST Best Bits](https://youtube.com/@yogscastbestbits) | 753 | 36K | 18M |
 | [boba](https://youtube.com/@boba69) | 1.8K | 32K | 5.9M |
-| [Bokoen1](https://youtube.com/@bokoen1) | 1.3K | 391K | 441M |
+| [Bokoen1](https://youtube.com/@bokoen1) | 1.3K | 391K | 442M |
 | [Bouphe](https://youtube.com/@bouphe) | 21 | 28K | 324K |
 | [brionykay](https://youtube.com/@brionykay_) | 306 | 6.9K | 1.1M |
 | [CraigMeUp](https://youtube.com/@craigmeup) | 36 | 2.7K | 219K |
-| [Daltos](https://youtube.com/@daltos) | 35 | 2.3K | 52K |
+| [Daltos](https://youtube.com/@daltos) | 35 | 2.3K | 53K |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 1.2K | 51K | 67M |
 | [Duncan](https://youtube.com/@duncan) | 5.6K | 1.7M | 804M |
 | [Geestargames](https://youtube.com/@geestargames) | 352 | 4.2K | 1.1M |
@@ -50,11 +50,11 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Lolipopgi](https://youtube.com/@lolipopgi) | 702 | 12K | 5.9M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 895K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 327 | 2.1K | 509K |
-| [Mousie](https://youtube.com/@mousie) | 2.2K | 182K | 53M |
+| [Mousie](https://youtube.com/@mousie) | 2.2K | 182K | 54M |
 | [HelloFromMousie](https://youtube.com/@hellofrommousie6376) | 17 | 1.4K | 16K |
 | [Mousie After Dark](https://youtube.com/@mousieafterdark) | 49 | 3.4K | 48K |
 | [YOGSCAST Nilesy](https://youtube.com/@nilesy) | 1.3K | 485K | 58M |
-| [Osiefish](https://youtube.com/@osiefish) | 186 | 2.1K | 60K |
+| [Osiefish](https://youtube.com/@osiefish) | 186 | 2.1K | 61K |
 | [Pedguin](https://youtube.com/@pedguin) | 2.3K | 379K | 173M |
 | [Pyrion Flax](https://youtube.com/@pyrionflax) | 600 | 167K | 27M |
 | [Ravs_](https://youtube.com/@ravs_) | 553 | 21K | 1.9M |
@@ -81,13 +81,13 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Civilization](https://youtube.com/@yogsciv) | 1.5K | 275K | 118M |
-| [Games Night](https://youtube.com/@gamesnight) | 710 | 267K | 55M |
+| [Games Night](https://youtube.com/@gamesnight) | 709 | 267K | 55M |
 | [High Rollers DnD](https://youtube.com/@highrollersdnd) | 643 | 217K | 59M |
 | [Lewis and Ben Save the World](https://youtube.com/@lewisandben) | 531 | 69K | 17M |
 | [Mystery Quest](https://youtube.com/@mystery_quest) | 285 | 103K | 15M |
 | [Team Double Dragon](https://youtube.com/@doubledragon) | 756 | 240K | 66M |
 | [Today I Played](https://youtube.com/@tip_) | 118 | 41K | 2.6M |
-| [Tom dynamic-channel-data Ben](https://youtube.com/@tomben8737) | 12 | 18K | 638K |
+| [Tom dynamic-channel-data Ben](https://youtube.com/@tomben8737) | 12 | 18K | 639K |
 
 #### Podcasts
 
