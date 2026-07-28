@@ -11,7 +11,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Yogscast](https://youtube.com/@yogscast) | 7.8K | 7.1M | 4.8B |
-| [Yogscast Games](https://youtube.com/@yogscastgames) | 380 | 4.0K | 1.3M |
+| [Yogscast Games](https://youtube.com/@yogscastgames) | 381 | 4.0K | 1.3M |
 | [Yogscast Shorts](https://youtube.com/@yogscastshorts) | 161 | 12K | 2.1M |
 | [Yogscast Live](https://youtube.com/@yogslive) | 4.6K | 246K | 116M |
 
@@ -30,7 +30,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Bouphe](https://youtube.com/@bouphe) | 21 | 28K | 324K |
 | [brionykay](https://youtube.com/@brionykay_) | 306 | 6.9K | 1.1M |
 | [CraigMeUp](https://youtube.com/@craigmeup) | 36 | 2.7K | 219K |
-| [Daltos](https://youtube.com/@daltos) | 35 | 2.3K | 53K |
+| [Daltos](https://youtube.com/@daltos) | 36 | 2.3K | 53K |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 1.2K | 51K | 68M |
 | [Duncan](https://youtube.com/@duncan) | 5.6K | 1.7M | 804M |
 | [Geestargames](https://youtube.com/@geestargames) | 352 | 4.2K | 1.1M |
@@ -46,8 +46,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.2K | 853K | 541M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 198 | 19K | 1.8M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 580K | 166M |
-| [Kirsty](https://youtube.com/@kirstyyt) | 333 | 2.3K | 68K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 702 | 12K | 6.0M |
+| [Kirsty](https://youtube.com/@kirstyyt) | 328 | 2.3K | 68K |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 703 | 12K | 6.0M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 895K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 327 | 2.1K | 509K |
 | [Mousie](https://youtube.com/@mousie) | 2.1K | 182K | 54M |
@@ -61,7 +61,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 584K | 235M |
 | [Rythian](https://youtube.com/@rythian) | 2.7K | 573K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 70 | 1.5K | 329K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 194 | 740 | 14K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 195 | 740 | 14K |
 | [Mara Holmes](https://youtube.com/@maraholmesdm) | 20 | 52K | 3.1M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 741M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.1K | 211K | 112M |
@@ -84,7 +84,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Games Night](https://youtube.com/@gamesnight) | 709 | 267K | 55M |
 | [High Rollers DnD](https://youtube.com/@highrollersdnd) | 643 | 217K | 59M |
 | [Lewis and Ben Save the World](https://youtube.com/@lewisandben) | 531 | 69K | 17M |
-| [Mystery Quest](https://youtube.com/@mystery_quest) | 285 | 103K | 15M |
+| [Mystery Quest](https://youtube.com/@mystery_quest) | 282 | 103K | 15M |
 | [Team Double Dragon](https://youtube.com/@doubledragon) | 756 | 240K | 66M |
 | [Today I Played](https://youtube.com/@tip_) | 118 | 41K | 2.6M |
 | [Tom dynamic-channel-data Ben](https://youtube.com/@tomben8737) | 12 | 18K | 639K |
@@ -112,10 +112,10 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.0K | 1.3M |
 | [jslewis](https://youtube.com/@jslewis) | 33 | 2.2K | 446K |
 | [katherine](https://youtube.com/@specialk137) | 8 | 682 | 1.3M |
-| [Kalakakku](https://youtube.com/@kalakakku_) | 69 | 3.2K | 846K |
+| [Kalakakku](https://youtube.com/@kalakakku_) | 69 | 3.2K | 847K |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 31 | 23K |
 | [Not Hat Films](https://youtube.com/@nothatfilms) | 89 | 4.6K | 1.7M |
-| [OscarFoxtrot](https://youtube.com/@oscarfoxtrot2657) | 363 | 111 | 322K |
+| [OscarFoxtrot](https://youtube.com/@oscarfoxtrot2657) | 363 | 111 | 323K |
 | [Retcina](https://youtube.com/@thegrimur) | 50 | 3.1K | 6.3M |
 | [Richard Cox](https://youtube.com/@richardcox0) | 2 | 268 | 304K |
 | [Ali Sleiman](https://youtube.com/@somerandim7280) | 5 | 49 | 41K |
