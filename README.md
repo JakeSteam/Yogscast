@@ -61,11 +61,11 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 584K | 235M |
 | [Rythian](https://youtube.com/@rythian) | 2.7K | 573K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 70 | 1.5K | 329K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 198 | 749 | 14K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 198 | 752 | 14K |
 | [Mara Holmes](https://youtube.com/@maraholmesdm) | 20 | 52K | 3.1M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 741M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.1K | 211K | 112M |
-| [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 789 | 4.5M | 1.2B |
+| [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 791 | 4.5M | 1.2B |
 | [Simon Lane](https://youtube.com/@simonlaneddhm) | 0 | 7.2K | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 92K | 6.8M |
 | [Tom Bates](https://youtube.com/@tombates) | 146 | 775K | 247M |
@@ -93,7 +93,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [The Hat Chat Podcast](https://youtube.com/@hatchat) | 227 | 36K | 3.5M |
+| [The Hat Chat Podcast](https://youtube.com/@hatchat) | 228 | 36K | 3.5M |
 | [Triforce!](https://youtube.com/@yogpod) | 562 | 142K | 39M |
 | [Vidiots](https://youtube.com/@vidiotsofficial) | 538 | 40K | 9.2M |
 | [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 83 | 3.1K | 157K |
