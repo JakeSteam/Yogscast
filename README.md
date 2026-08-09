@@ -11,7 +11,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Yogscast](https://youtube.com/@yogscast) | 7.8K | 7.1M | 4.8B |
-| [Yogscast Games](https://youtube.com/@yogscastgames) | 387 | 4.0K | 1.3M |
+| [Yogscast Games](https://youtube.com/@yogscastgames) | 387 | 4.1K | 1.3M |
 | [Yogscast Shorts](https://youtube.com/@yogscastshorts) | 161 | 12K | 2.1M |
 | [Yogscast Live](https://youtube.com/@yogslive) | 4.6K | 246K | 116M |
 
@@ -61,7 +61,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 585K | 235M |
 | [Rythian](https://youtube.com/@rythian) | 2.7K | 573K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 70 | 1.5K | 329K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 203 | 752 | 15K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 203 | 753 | 15K |
 | [Mara Holmes](https://youtube.com/@maraholmesdm) | 20 | 52K | 3.1M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 741M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.1K | 211K | 112M |
@@ -82,7 +82,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | --- | --- | --- | --- |
 | [Civilization](https://youtube.com/@yogsciv) | 1.5K | 275K | 118M |
 | [Games Night](https://youtube.com/@gamesnight) | 712 | 267K | 55M |
-| [High Rollers DnD](https://youtube.com/@highrollersdnd) | 644 | 217K | 60M |
+| [High Rollers DnD](https://youtube.com/@highrollersdnd) | 644 | 216K | 60M |
 | [Lewis and Ben Save the World](https://youtube.com/@lewisandben) | 531 | 69K | 17M |
 | [Mystery Quest](https://youtube.com/@mystery_quest) | 289 | 104K | 15M |
 | [Team Double Dragon](https://youtube.com/@doubledragon) | 756 | 240K | 66M |
@@ -117,7 +117,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Not Hat Films](https://youtube.com/@nothatfilms) | 89 | 4.6K | 1.7M |
 | [OscarFoxtrot](https://youtube.com/@oscarfoxtrot2657) | 363 | 111 | 324K |
 | [Retcina](https://youtube.com/@thegrimur) | 50 | 3.1K | 6.3M |
-| [Richard Cox](https://youtube.com/@richardcox0) | 2 | 271 | 305K |
+| [Richard Cox](https://youtube.com/@richardcox0) | 2 | 270 | 305K |
 | [Ali Sleiman](https://youtube.com/@somerandim7280) | 5 | 49 | 42K |
 | [Some Yognaut on the Internet](https://youtube.com/@someyognautontheinternet3680) | 105 | 11K | 6.0M |
 | [Trottclate Rain (Fannotation)](https://youtube.com/@trottclaterain4996) | 4 | 484 | 299K |
