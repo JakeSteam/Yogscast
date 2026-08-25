@@ -29,6 +29,8 @@ UCTSu4x8ahsJ16T9fWiwlKdg;InTheLittleWood MC
 UCVfSWFY5dgU4V77r66Zk1Vg;InTheLittleWood Live
 UC43E5njlLk2tZ_VMUAIeleA;InTheLittleWood Shorts
 UCmKdqsvmV6e7Pwy7N2PMnnA;iSorrowproductions
+UCgvaWsBzNEox0PES4qBwHxw;iSorrow
+UCKEHKGXN9i0djB3tGHbfCZg;ISP
 UCtqIhSzQEokE_oaQRsLRxQw;Joe Hickson
 UCUxoapwoGN9cKN5SPKGVh7A;Kim
 UC9uA9ms0_-LVsMyOJGfZE7A;Kirsty
@@ -63,6 +65,7 @@ UCee7sFqGWiJM5DaHzX5nFVA;Zylus
 #### Shared Channels
 UCNBwxPqzdZeLGv8SPoosjNg;Civilization
 UClhmd2Xe3zrYfuarqV-shKA;Games Night
+UCvI0CjDlf7p-UgJdcq8MfNQ;GSPuuuv
 UC3qtZRMtWNaD2Q96STxgOrA;High Rollers DnD
 UCeiojUKAAGdwocc5ZjMqryA;Lewis And Ben
 UCd5_xAWJ4yX6NZ5cZaccqPw;Mystery Quest
