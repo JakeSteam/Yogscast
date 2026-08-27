@@ -63,14 +63,14 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 585K | 236M |
 | [Rythian](https://youtube.com/@rythian) | 2.7K | 573K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 70 | 1.5K | 329K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 213 | 768 | 16K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 213 | 769 | 16K |
 | [Mara Holmes](https://youtube.com/@maraholmesdm) | 20 | 52K | 3.1M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 741M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.2K | 211K | 112M |
 | [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 795 | 4.5M | 1.2B |
 | [Simon Lane](https://youtube.com/@simonlaneddhm) | 0 | 7.2K | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 92K | 6.8M |
-| [Tom Bates](https://youtube.com/@tombates) | 149 | 777K | 249M |
+| [Tom Bates](https://youtube.com/@tombates) | 150 | 777K | 249M |
 | [Vadact](https://youtube.com/@vadact) | 2.1K | 1.4M | 322M |
 | [Wilsonator](https://youtube.com/@wilsonator) | 627 | 542K | 67M |
 | [xenophyte](https://youtube.com/@xenophyte) | 412 | 50K | 28M |
@@ -125,7 +125,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Some Yognaut on the Internet](https://youtube.com/@someyognautontheinternet3680) | 105 | 11K | 6.0M |
 | [Trottclate Rain (Fannotation)](https://youtube.com/@trottclaterain4996) | 4 | 484 | 299K |
 | [Trotts Bulge](https://youtube.com/@trottsbulge2726) | 4 | 14 | 28K |
-| [Xhenix](https://youtube.com/@xhenix) | 248 | 14K | 9.4M |
+| [Xhenix](https://youtube.com/@xhenix) | 249 | 14K | 9.4M |
 | [YogPOG](https://youtube.com/@yogpog) | 215 | 7.3K | 5.8M |
 | [Yogs Clips](https://youtube.com/@yogsclips) | 1.3K | 19K | 13M |
 
