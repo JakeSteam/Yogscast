@@ -49,7 +49,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Joe Hickson](https://youtube.com/@joehickson) | 198 | 19K | 1.8M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 579K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 339 | 2.4K | 70K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 728 | 13K | 6.2M |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 729 | 13K | 6.2M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 896K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 327 | 2.1K | 509K |
 | [Mousie](https://youtube.com/@mousie) | 2.2K | 182K | 54M |
@@ -63,7 +63,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 585K | 236M |
 | [Rythian](https://youtube.com/@rythian) | 2.7K | 573K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 70 | 1.5K | 329K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 213 | 769 | 16K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 215 | 778 | 16K |
 | [Mara Holmes](https://youtube.com/@maraholmesdm) | 20 | 52K | 3.1M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 741M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.2K | 211K | 112M |
@@ -74,7 +74,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Vadact](https://youtube.com/@vadact) | 2.1K | 1.4M | 322M |
 | [Wilsonator](https://youtube.com/@wilsonator) | 627 | 542K | 67M |
 | [xenophyte](https://youtube.com/@xenophyte) | 412 | 50K | 28M |
-| [sarah](https://youtube.com/@yogtok) | 24 | 7.6K | 719K |
+| [sarah](https://youtube.com/@yogtok) | 24 | 7.6K | 720K |
 | [YOGSCAST Zoey](https://youtube.com/@zoey) | 321 | 364K | 27M |
 | [YOGSCAST Zylus](https://youtube.com/@zylus) | 88 | 84K | 1.5M |
 
@@ -87,7 +87,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [GSPuuuv](https://youtube.com/@gspuuuv) | 25 | 25K | 604K |
 | [High Rollers DnD](https://youtube.com/@highrollersdnd) | 647 | 216K | 60M |
 | [Lewis and Ben Save the World](https://youtube.com/@lewisandben) | 531 | 69K | 17M |
-| [Mystery Quest](https://youtube.com/@mystery_quest) | 293 | 105K | 15M |
+| [Mystery Quest](https://youtube.com/@mystery_quest) | 294 | 105K | 15M |
 | [Team Double Dragon](https://youtube.com/@doubledragon) | 756 | 240K | 66M |
 | [Today I Played](https://youtube.com/@tip_) | 118 | 41K | 2.6M |
 | [Tom dynamic-channel-data Ben](https://youtube.com/@tomben8737) | 12 | 18K | 644K |
