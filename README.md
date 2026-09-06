@@ -29,8 +29,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Bokoen1](https://youtube.com/@bokoen1) | 1.3K | 391K | 446M |
 | [Bouphe](https://youtube.com/@bouphe) | 21 | 28K | 326K |
 | [brionykay](https://youtube.com/@brionykay_) | 307 | 7.0K | 1.2M |
-| [CraigMeUp](https://youtube.com/@craigmeup) | 36 | 2.7K | 220K |
-| [Daltos](https://youtube.com/@daltos) | 39 | 2.3K | 57K |
+| [CraigMeUp](https://youtube.com/@craigmeup) | 36 | 2.7K | 221K |
+| [Daltos](https://youtube.com/@daltos) | 40 | 2.3K | 57K |
 | [Drakon Astron](https://youtube.com/@drakonastron) | 1.2K | 51K | 68M |
 | [Duncan](https://youtube.com/@duncan) | 5.6K | 1.7M | 805M |
 | [Geestargames](https://youtube.com/@geestargames) | 363 | 4.2K | 1.1M |
@@ -56,22 +56,22 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [HelloFromMousie](https://youtube.com/@hellofrommousie6376) | 17 | 1.4K | 17K |
 | [Mousie After Dark](https://youtube.com/@mousieafterdark) | 49 | 3.4K | 48K |
 | [YOGSCAST Nilesy](https://youtube.com/@nilesy) | 1.3K | 484K | 58M |
-| [Osiefish](https://youtube.com/@osiefish) | 196 | 2.1K | 63K |
+| [Osiefish](https://youtube.com/@osiefish) | 197 | 2.1K | 63K |
 | [Pedguin](https://youtube.com/@pedguin) | 2.3K | 379K | 176M |
 | [Pyrion Flax](https://youtube.com/@pyrionflax) | 609 | 166K | 27M |
 | [Ravs_](https://youtube.com/@ravs_) | 553 | 21K | 1.9M |
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 585K | 236M |
 | [Rythian](https://youtube.com/@rythian) | 2.7K | 573K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 70 | 1.5K | 330K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 219 | 789 | 18K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 219 | 790 | 18K |
 | [Mara Holmes](https://youtube.com/@maraholmesdm) | 20 | 52K | 3.1M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 741M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.2K | 211K | 113M |
-| [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 796 | 4.5M | 1.2B |
+| [The Spiffing Brit](https://youtube.com/@thespiffingbrit) | 797 | 4.5M | 1.2B |
 | [Simon Lane](https://youtube.com/@simonlaneddhm) | 0 | 7.2K | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 92K | 6.8M |
 | [Tom Bates](https://youtube.com/@tombates) | 150 | 777K | 250M |
-| [Vadact](https://youtube.com/@vadact) | 2.1K | 1.4M | 323M |
+| [Vadact](https://youtube.com/@vadact) | 2.1K | 1.4M | 324M |
 | [Wilsonator](https://youtube.com/@wilsonator) | 627 | 542K | 67M |
 | [xenophyte](https://youtube.com/@xenophyte) | 412 | 50K | 28M |
 | [sarah](https://youtube.com/@yogtok) | 24 | 7.6K | 722K |
@@ -113,8 +113,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [edgar alan chode](https://youtube.com/@edgaralanchode) | 13 | 375 | 66K |
 | [Harley Sonder](https://youtube.com/@harleysonder4341) | 40 | 4.7K | 788K |
 | [jomeo](https://youtube.com/@jomeo) | 61 | 2.0K | 1.3M |
-| [jslewis](https://youtube.com/@jslewis) | 33 | 2.2K | 453K |
-| [katherine](https://youtube.com/@specialk137) | 8 | 682 | 1.3M |
+| [jslewis](https://youtube.com/@jslewis) | 33 | 2.2K | 454K |
+| [katherine](https://youtube.com/@specialk137) | 8 | 683 | 1.3M |
 | [Kalakakku](https://youtube.com/@kalakakku_) | 69 | 3.2K | 861K |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 31 | 23K |
 | [Not Hat Films](https://youtube.com/@nothatfilms) | 90 | 4.6K | 1.7M |
@@ -141,7 +141,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Madcat Productions](https://youtube.com/@caturdaycartoons) | 64 | 912 | 369K |
 | [RosieMaybe](https://youtube.com/@rosiemaybe) | 58 | 2.1K | 320K |
 | [Rukart Bert](https://youtube.com/@rukartbert) | 132 | 100K | 30M |
-| [Scott Stutzman](https://youtube.com/@scottstutzmanlagoon) | 349 | 940 | 331K |
+| [Scott Stutzman](https://youtube.com/@scottstutzmanlagoon) | 349 | 940 | 332K |
 | [Shononoki](https://youtube.com/@shononoki) | 12 | 845 | 138K |
 | [The Occasional Clabon](https://youtube.com/@theoccasionalclabon) | 50 | 11K | 4.4M |
 | [Sofa's Edits](https://youtube.com/@thesofabearking) | 28 | 784 | 1.8M |
