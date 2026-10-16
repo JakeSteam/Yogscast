@@ -11,7 +11,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Yogscast](https://youtube.com/@yogscast) | 7.8K | 7.1M | 4.8B |
-| [Yogscast Games](https://youtube.com/@yogscastgames) | 418 | 4.1K | 1.4M |
+| [Yogscast Games](https://youtube.com/@yogscastgames) | 420 | 4.1K | 1.4M |
 | [Yogscast Shorts](https://youtube.com/@yogscastshorts) | 161 | 12K | 2.1M |
 | [Yogscast Live](https://youtube.com/@yogslive) | 4.6K | 246K | 116M |
 
@@ -42,10 +42,10 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [InTheLittleWood](https://youtube.com/@inthelittlewood) | 4.1K | 2.5M | 684M |
 | [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 1.2K | 285K | 43M |
 | [InTheLittleWood VODS](https://youtube.com/@inthelittlewoodlive) | 474 | 36K | 2.7M |
-| [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 141 | 43K | 14M |
+| [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 142 | 43K | 14M |
 | [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.2K | 857K | 549M |
 | [iSorrow](https://youtube.com/@ispuv) | 65 | 113K | 12M |
-| [ISP](https://youtube.com/@isp) | 137 | 330K | 43M |
+| [ISP](https://youtube.com/@isp) | 137 | 329K | 43M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 198 | 19K | 1.8M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 579K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 339 | 2.4K | 71K |
@@ -56,14 +56,14 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [HelloFromMousie](https://youtube.com/@hellofrommousie6376) | 17 | 1.4K | 17K |
 | [Mousie After Dark](https://youtube.com/@mousieafterdark) | 49 | 3.4K | 48K |
 | [YOGSCAST Nilesy](https://youtube.com/@nilesy) | 1.3K | 484K | 58M |
-| [Osiefish](https://youtube.com/@osiefish) | 201 | 2.1K | 66K |
+| [Osiefish](https://youtube.com/@osiefish) | 202 | 2.1K | 66K |
 | [Pedguin](https://youtube.com/@pedguin) | 2.3K | 379K | 177M |
 | [Pyrion Flax](https://youtube.com/@pyrionflax) | 610 | 166K | 27M |
 | [Ravs_](https://youtube.com/@ravs_) | 553 | 21K | 1.9M |
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 585K | 238M |
 | [Rythian](https://youtube.com/@rythian) | 2.7K | 572K | 114M |
-| [Rythian II](https://youtube.com/@dxphoenix) | 70 | 1.5K | 330K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 245 | 850 | 27K |
+| [Rythian II](https://youtube.com/@dxphoenix) | 72 | 1.5K | 330K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 246 | 851 | 27K |
 | [Mara Holmes](https://youtube.com/@maraholmesdm) | 20 | 52K | 3.1M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 741M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.2K | 211K | 114M |
@@ -100,7 +100,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Triforce!](https://youtube.com/@yogpod) | 573 | 142K | 40M |
 | [Vidiots](https://youtube.com/@vidiotsofficial) | 542 | 40K | 9.2M |
 | [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 89 | 3.2K | 169K |
-| [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 141 | 5.6K | 449K |
+| [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 141 | 5.6K | 450K |
 
 #### Highlights / Clips / Compilations
 
