@@ -11,7 +11,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [The Yogscast](https://youtube.com/@yogscast) | 7.8K | 7.1M | 4.8B |
-| [Yogscast Games](https://youtube.com/@yogscastgames) | 424 | 4.1K | 1.4M |
+| [Yogscast Games](https://youtube.com/@yogscastgames) | 425 | 4.1K | 1.4M |
 | [Yogscast Shorts](https://youtube.com/@yogscastshorts) | 161 | 12K | 2.1M |
 | [Yogscast Live](https://youtube.com/@yogslive) | 4.6K | 246K | 116M |
 
@@ -20,7 +20,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Alex The Rambler!](https://youtube.com/@alextherambler) | 2.1K | 431K | 197M |
-| [Angory Tom](https://youtube.com/@angorytom) | 3.9K | 264K | 195M |
+| [Angory Tom](https://youtube.com/@angorytom) | 3.9K | 264K | 196M |
 | [Bekkiboom](https://youtube.com/@bekkibooom) | 104 | 3.3K | 57K |
 | [Conquest!](https://youtube.com/@conquest) | 136 | 57K | 3.0M |
 | [Ben (Yogscast)](https://youtube.com/@benyogscast6594) | 0 | 5.6K | 0 |
@@ -35,7 +35,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Duncan](https://youtube.com/@duncan) | 5.6K | 1.7M | 807M |
 | [Geestargames](https://youtube.com/@geestargames) | 364 | 4.2K | 1.1M |
 | [Hrry](https://youtube.com/@hrrybrry) | 3 | 12K | 5.7K |
-| [Hat Films](https://youtube.com/@hatfilms) | 6.0K | 847K | 580M |
+| [Hat Films](https://youtube.com/@hatfilms) | 6.0K | 847K | 581M |
 | [Hat Films Live](https://youtube.com/@hatfilmslive) | 134 | 6.6K | 59K |
 | [Hat Gaming](https://youtube.com/@hatfilmsgaming) | 1.1K | 136K | 45M |
 | [Honeydew Live](https://youtube.com/@honeydewlive) | 600 | 30K | 1.2M |
@@ -49,7 +49,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Joe Hickson](https://youtube.com/@joehickson) | 198 | 19K | 1.8M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8K | 579K | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 339 | 2.4K | 72K |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 773 | 13K | 6.6M |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 774 | 13K | 6.6M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29K | 897K |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 327 | 2.1K | 509K |
 | [Mousie](https://youtube.com/@mousie) | 2.2K | 182K | 54M |
@@ -63,7 +63,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5K | 585K | 238M |
 | [Rythian](https://youtube.com/@rythian) | 2.7K | 572K | 114M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 72 | 1.5K | 330K |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 248 | 857 | 28K |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 249 | 869 | 28K |
 | [Mara Holmes](https://youtube.com/@maraholmesdm) | 20 | 52K | 3.1M |
 | [Sips](https://youtube.com/@sips) | 3.7K | 1.7M | 741M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.2K | 211K | 114M |
@@ -84,8 +84,8 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | --- | --- | --- | --- |
 | [Civilization](https://youtube.com/@yogsciv) | 1.5K | 275K | 119M |
 | [Battle Report - Games Night](https://youtube.com/@gamesnight) | 759 | 268K | 57M |
-| [GSPuuuv](https://youtube.com/@gspuuuv) | 27 | 25K | 687K |
-| [High Rollers DnD](https://youtube.com/@highrollersdnd) | 657 | 216K | 60M |
+| [GSPuuuv](https://youtube.com/@gspuuuv) | 27 | 25K | 688K |
+| [High Rollers DnD](https://youtube.com/@highrollersdnd) | 658 | 216K | 60M |
 | [Lewis and Ben Save the World](https://youtube.com/@lewisandben) | 531 | 69K | 17M |
 | [Mystery Quest](https://youtube.com/@mystery_quest) | 316 | 106K | 17M |
 | [Team Double Dragon](https://youtube.com/@doubledragon) | 756 | 239K | 66M |
@@ -100,7 +100,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Triforce!](https://youtube.com/@yogpod) | 575 | 142K | 40M |
 | [Vidiots](https://youtube.com/@vidiotsofficial) | 542 | 40K | 9.2M |
 | [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 89 | 3.2K | 170K |
-| [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 142 | 5.6K | 453K |
+| [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 142 | 5.6K | 454K |
 
 #### Highlights / Clips / Compilations
 
