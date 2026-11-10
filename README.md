@@ -63,7 +63,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5k | 585k | 239M |
 | [Rythian](https://youtube.com/@rythian) | 2.7k | 572k | 115M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 72 | 1.5k | 330k |
-| [Rythian II](https://youtube.com/@dxphoenix) | 72 | 1.5k | 330k |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 259 | 891 | 32k |
 | [Mara Holmes](https://youtube.com/@maraholmesdm) | 20 | 52k | 3.1M |
 | [Sips](https://youtube.com/@sips) | 3.7k | 1.7M | 741M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.2k | 211k | 115M |
@@ -83,7 +83,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Civilization](https://youtube.com/@yogsciv) | 1.5k | 275k | 119M |
-| [Battle Report - Games Night](https://youtube.com/@gamesnight) | 769 | 268k | 58M |
+| [Battle Report - Games Night](https://youtube.com/@gamesnight) | 770 | 268k | 58M |
 | [GSPuuuv](https://youtube.com/@gspuuuv) | 27 | 25k | 692k |
 | [High Rollers DnD](https://youtube.com/@highrollersdnd) | 659 | 216k | 61M |
 | [Lewis and Ben Save the World](https://youtube.com/@lewisandben) | 531 | 69k | 17M |
@@ -100,7 +100,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Triforce!](https://youtube.com/@yogpod) | 577 | 142k | 40M |
 | [Vidiots](https://youtube.com/@vidiotsofficial) | 542 | 40k | 9.2M |
 | [Ye Olde Movie Podcast - YOMP](https://youtube.com/@yompcast) | 91 | 3.2k | 173k |
-| [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 144 | 5.6k | 462k |
+| [Zero Degrees Podcast](https://youtube.com/@zerodegreespodcast) | 145 | 5.6k | 462k |
 
 #### Highlights / Clips / Compilations
 
@@ -118,7 +118,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Kalakakku](https://youtube.com/@kalakakku_) | 69 | 3.2k | 884k |
 | [Lewiiiiiiiis](https://youtube.com/@lewiiiiiiiis) | 1 | 31 | 23k |
 | [Not Hat Films](https://youtube.com/@nothatfilms) | 90 | 4.6k | 1.7M |
-| [OscarFoxtrot](https://youtube.com/@oscarfoxtrot2657) | 363 | 114 | 338k |
+| [OscarFoxtrot](https://youtube.com/@oscarfoxtrot2657) | 363 | 114 | 339k |
 | [Retcina](https://youtube.com/@thegrimur) | 50 | 3.0k | 6.3M |
 | [Richard Cox](https://youtube.com/@richardcox0) | 2 | 269 | 308k |
 | [Ali Sleiman](https://youtube.com/@somerandim7280) | 5 | 49 | 42k |
