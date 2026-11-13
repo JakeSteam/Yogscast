@@ -42,14 +42,14 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [InTheLittleWood](https://youtube.com/@inthelittlewood) | 4.1k | 2.5M | 684M |
 | [InTheLittleWood aka Martyn](https://youtube.com/@martyn) | 1.3k | 290k | 44M |
 | [InTheLittleWood VODS](https://youtube.com/@inthelittlewoodlive) | 474 | 36k | 2.7M |
-| [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 143 | 43k | 14M |
+| [InTheLittleWood Shorts](https://youtube.com/@inthelittleshorts) | 143 | 44k | 14M |
 | [iSorrowproductions](https://youtube.com/@isorrowproductions) | 1.2k | 858k | 554M |
-| [iSorrow](https://youtube.com/@ispuv) | 67 | 114k | 13M |
+| [iSorrow](https://youtube.com/@ispuv) | 68 | 114k | 13M |
 | [ISP](https://youtube.com/@isp) | 137 | 329k | 43M |
 | [Joe Hickson](https://youtube.com/@joehickson) | 198 | 19k | 1.8M |
 | [YOGSCAST Kim](https://youtube.com/@yogscastkim) | 1.8k | 578k | 166M |
 | [Kirsty](https://youtube.com/@kirstyyt) | 339 | 2.4k | 72k |
-| [Lolipopgi](https://youtube.com/@lolipopgi) | 784 | 13k | 6.7M |
+| [Lolipopgi](https://youtube.com/@lolipopgi) | 785 | 13k | 6.7M |
 | [Lydia - SquidGame](https://youtube.com/@squidgame) | 166 | 29k | 897k |
 | [More Joe Hickson](https://youtube.com/@morehickson) | 327 | 2.1k | 510k |
 | [Mousie](https://youtube.com/@mousie) | 2.2k | 182k | 54M |
@@ -63,7 +63,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Rimmy Downunder](https://youtube.com/@rimmydownunder) | 1.5k | 585k | 239M |
 | [Rythian](https://youtube.com/@rythian) | 2.7k | 572k | 115M |
 | [Rythian II](https://youtube.com/@dxphoenix) | 72 | 1.5k | 330k |
-| [shadowatnoon](https://youtube.com/@shadowatnoon) | 262 | 894 | 33k |
+| [shadowatnoon](https://youtube.com/@shadowatnoon) | 263 | 894 | 33k |
 | [Mara Holmes](https://youtube.com/@maraholmesdm) | 20 | 52k | 3.1M |
 | [Sips](https://youtube.com/@sips) | 3.7k | 1.7M | 741M |
 | [Sips - Live!](https://youtube.com/@sipslive) | 5.2k | 211k | 115M |
@@ -71,7 +71,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Simon Lane](https://youtube.com/@simonlaneddhm) | 0 | 7.1k | 0 |
 | [Tabletop Weekly Archive](https://youtube.com/@sherlockhulmes) | 26 | 91k | 6.8M |
 | [Tom Bates](https://youtube.com/@tombates) | 154 | 789k | 260M |
-| [Vadact](https://youtube.com/@vadact) | 2.1k | 1.4M | 333M |
+| [Vadact](https://youtube.com/@vadact) | 2.1k | 1.4M | 334M |
 | [Wilsonator](https://youtube.com/@wilsonator) | 627 | 541k | 68M |
 | [xenophyte](https://youtube.com/@xenophyte) | 412 | 50k | 28M |
 | [sarah](https://youtube.com/@yogtok) | 24 | 7.6k | 731k |
@@ -83,14 +83,14 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Civilization](https://youtube.com/@yogsciv) | 1.5k | 275k | 119M |
-| [Battle Report - Games Night](https://youtube.com/@gamesnight) | 772 | 268k | 58M |
+| [Battle Report - Games Night](https://youtube.com/@gamesnight) | 773 | 268k | 58M |
 | [GSPuuuv](https://youtube.com/@gspuuuv) | 27 | 25k | 693k |
 | [High Rollers DnD](https://youtube.com/@highrollersdnd) | 661 | 216k | 61M |
 | [Lewis and Ben Save the World](https://youtube.com/@lewisandben) | 531 | 69k | 17M |
-| [Mystery Quest](https://youtube.com/@mystery_quest) | 323 | 106k | 17M |
+| [Mystery Quest](https://youtube.com/@mystery_quest) | 322 | 106k | 17M |
 | [Team Double Dragon](https://youtube.com/@doubledragon) | 756 | 239k | 66M |
 | [Today I Played](https://youtube.com/@tip_) | 118 | 41k | 2.6M |
-| [Tom dynamic-channel-data Ben](https://youtube.com/@tomben8737) | 12 | 18k | 674k |
+| [Tom dynamic-channel-data Ben](https://youtube.com/@tomben8737) | 12 | 18k | 675k |
 
 #### Podcasts
 
@@ -147,7 +147,7 @@ It updates once a day (see [how it works](#how-it-works)), [add any missing chan
 | [Sofa's Edits](https://youtube.com/@thesofabearking) | 28 | 783 | 1.9M |
 | [TheMultiMechs](https://youtube.com/@themultimechs) | 132 | 2.6k | 721k |
 | [TheVecnaThe](https://youtube.com/@thevecnathe8376) | 0 | 51 | 0 |
-| [Toasted Tomatoes](https://youtube.com/@toastedtomatoes) | 60 | 3.8k | 1.4M |
+| [Toasted Tomatoes](https://youtube.com/@toastedtomatoes) | 60 | 3.8k | 1.5M |
 | [Traxinox](https://youtube.com/@traxinox) | 2 | 3.0k | 1.1M |
 | [WORDwizard64](https://youtube.com/@wordwizard64) | 45 | 32k | 15M |
 
